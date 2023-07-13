@@ -5,6 +5,9 @@
     font-weight: 300;
 }
 
+/* Navigation links */
 #menu li {
     float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
