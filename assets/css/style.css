@@ -1,33 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
 
-.body {
-    font-family: Lato, sans-serif;
-    font-weight: 300;
-}
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 
-/* Heading and Logo */
+    .body {
 
-#menu,
-#logo {
+        font-family: Lato, sans-serif;
+        font-weight: 300;
+    }
 
-    line-height: 75px;
-}
+    #logo {
+        float: left;
+        font-size: 280%;
+        margin-left: 30px;
+    }
 
-#menu {
-    font-size: 110%;
+    /* Heading and Logo */
 
-}
+    #menu,
+    #logo {
 
-/* Navigation links */
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-}
+        line-height: 75px;
+    }
 
-/* Home or background image styling */
+    #menu {
+        font-size: 110%;
 
-#home-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
+    }
+
+    /* Navigation links */
+    #menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 30px;
+    }
+
+    #menu a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    /* Home or background image styling */
+
+    #home-image {
+        height: 600px;
+        width: 100%;
+        background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
