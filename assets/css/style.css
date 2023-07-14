@@ -5,6 +5,19 @@
     font-weight: 300;
 }
 
+/* Heading and Logo */
+
+#menu,
+#logo {
+
+    line-height: 75px;
+}
+
+#menu {
+    font-size: 110%;
+
+}
+
 /* Navigation links */
 #menu li {
     float: right;
@@ -17,4 +30,4 @@
 #home-image {
     height: 600px;
     width: 100%;
-    background: url("../images/pexels-pixabay-289586.jpg");
+    background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
