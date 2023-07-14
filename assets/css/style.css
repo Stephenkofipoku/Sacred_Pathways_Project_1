@@ -51,7 +51,31 @@
 
     /* Home or background image styling */
 
+    #home-outer {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+    }
+
     #home-image {
         height: 600px;
         width: 100%;
         background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
+
+        /* Animates zoom effect on page loading */
+        animation-name: home-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+
+    /* Creat level of zoom for home image */
+
+    @keyframes home-zoom {
+        from {
+            transform: scale(1);
+        }
+
+        to {
+            transform: scale(1.1);
+        }
+    }
