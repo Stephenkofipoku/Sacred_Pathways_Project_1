@@ -1,5 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
+# README for Sacred Pathways Project
 ## Introduction
 
 Welcome,
@@ -9,3 +8,7 @@ This website is a sanctuary dedicated to the transformative power of meditation,
 ## Purpose
 
 Milestone Project portfolio 1. HTML and CSS project
+
+## Wireframe
+This is basic sketch and spacial planning of the project using Balsamiq. Below is the structure giving a layout of the Main page which will have the logo on the left, the menu on the right, main image at the lop below the header and showing the various sections of the website which will be Meditation, Minfulness and Yoga. The next page is the Community and Support which will have the form for contacting Sacred Pathways, providing feedback and also additional resources for advance exploration and learning on each of the practices.
+
