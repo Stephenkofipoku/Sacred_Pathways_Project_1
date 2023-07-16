@@ -109,13 +109,21 @@
     position: absolute;
 }
 
+/* Meditation Section Styling */
+
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
 /* Styling of Meditation header, paragraphs and steps of meditation ol */
 
 .flex-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: left;
 }
 
 /* Styling meditation image 8 */
