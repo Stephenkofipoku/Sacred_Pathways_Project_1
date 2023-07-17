@@ -126,6 +126,12 @@
     text-align: left;
 }
 
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px;
+}
+
 /* Styling meditation image 8 */
 
 .med-photos>img {
@@ -148,4 +154,13 @@ img {
     display: block;
     width: 60%;
     margin: auto;
+}
+
+.meditation {
+    padding-top: 20px;
+    font-family: Lato, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
 }
