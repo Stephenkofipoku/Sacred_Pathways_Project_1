@@ -69,6 +69,7 @@
 #home-image {
     height: 600px;
     width: 100%;
+    margin-bottom: 100px;
     background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
 
     /* Animates zoom effect on page loading */
@@ -126,6 +127,10 @@
     text-align: left;
 }
 
+.meditation > p {
+    margin-top: 50px;
+}
+
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
@@ -162,5 +167,4 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-transform: uppercase;
 }
