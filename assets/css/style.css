@@ -91,7 +91,7 @@
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 110%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -308,7 +308,7 @@ p.copyright {
     height: 600px;
     width: 100%;
     overflow: hidden;
-    
+
     position: relative;
 }
 
@@ -317,15 +317,63 @@ p.copyright {
     color: #fff;
 }
 
-#hero-image {
+.hero-image {
     height: 600px;
     width: 100%;
     margin-bottom: 100px;
     background: url("../images/hero-image.jpg") no-repeat center center;
-   
+
     /* Animates zoom effect on page loading */
     animation-name: home-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
+/* Feedback form section styles */
+.form-section {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button[type="submit"] {
+    align-self: flex-end;
+}
