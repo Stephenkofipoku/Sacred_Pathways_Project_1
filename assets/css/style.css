@@ -308,12 +308,12 @@ p.copyright {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
+    
     position: relative;
 }
 
-.hero-cover-text,
-.hero-cover-text h2 {
+#hero-cover-text h2,
+#hero-cover-text h3 {
     color: #fff;
 }
 
@@ -322,9 +322,10 @@ p.copyright {
     width: 100%;
     margin-bottom: 100px;
     background: url("../images/hero-image.jpg") no-repeat center center;
-
+   
     /* Animates zoom effect on page loading */
     animation-name: home-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
+
