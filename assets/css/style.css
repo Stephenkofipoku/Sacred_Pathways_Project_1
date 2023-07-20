@@ -295,7 +295,7 @@ footer {
     color: #3a3a3a;
 }
 
-p.copyright {
+.copyright {
     margin-top: 10px;
     text-align: center;
     font-size: 14px;
