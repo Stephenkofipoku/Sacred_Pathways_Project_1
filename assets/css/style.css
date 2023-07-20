@@ -329,6 +329,45 @@ footer {
     animation-fill-mode: forwards;
 }
 
+/* Style Additional resources section */
+
+.resources {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.resources h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.resources hr {
+  border-top: 1px solid #3a3a3a;
+  margin: 20px auto;
+}
+
+.resources ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.resources li {
+  margin-bottom: 15px;
+}
+
+.resources li a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.resources li a:hover {
+  text-decoration: underline;
+}
+
 /* Feedback form section styles */
 .form-section {
     max-width: 500px;
