@@ -14,4 +14,10 @@ Milestone Project portfolio 1. HTML and CSS project
 
 This is basic sketch and spacial planning of the project using Balsamiq. Below is the structure giving a layout of the Main page which will have the logo on the left, the menu on the right, main image at the lop below the header and showing the various sections of the website which will be Meditation, Minfulness and Yoga. The next page is the Community and Support which will have the form for contacting Sacred Pathways, providing feedback and also additional resources for advance exploration and learning on each of the practices.
 
-![Sacred Pathway Wireframe](./documents/wireframe1-sacredpathway.png)
+## Sketches of the Sacred Pathway Project
+
+The Sections will be Landing Sections/Home, Meditation, Mindfulness, Yoga. The Community and support will be a separate html page where people can sign up, provide feedback or get linked to recommended resources such as other websites that can assist or guide them through advance meditation, mindfulness. Page 2 is the Community and support page.
+
+![Sacred Pathway Wireframe page 1](./documents/wireframe1-sacredpathway.png)
+
+![Sacred Pathway Wifreframe page 2](./documents/wireframe2-sacredpathway.png)
