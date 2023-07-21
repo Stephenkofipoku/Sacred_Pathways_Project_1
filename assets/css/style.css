@@ -127,7 +127,9 @@
     text-align: left;
 }
 
-.meditation>p, .mindfulness>p, .yoga>p {
+.meditation>p,
+.mindfulness>p,
+.yoga>p {
     margin-top: 50px;
 }
 
@@ -166,7 +168,9 @@ img {
     margin: auto;
 }
 
-.meditation, .mindfulness, .yoga {
+.meditation,
+.mindfulness,
+.yoga {
     padding-top: 20px;
     font-family: Lato, sans-serif;
     display: flex;
@@ -180,35 +184,21 @@ img {
     margin: 0;
 }
 
-/* Styling of Mindfulness Section */
+/* Style ordered list of meditation, mindfulness and yoga */
 
-.mind-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
+/* Style for the ordered list (ol) element */
+ol {
+    counter-reset: list-counter;
+    margin: 0;
+    padding: 0;
 }
 
-.mindfulness>p {
-    margin-top: 50px;
-}
-
-hr {
-    border-top: 1px solid #3a3a3a;
-    width: 100%;
-    margin: 5px;
-}
-
-.mind-steps {
-    text-align: left;
-}
-
-.yoga-steps {
-    text-align: left;
-}
-
-aside {
-    margin-top: 20px;
+/* Style for each list item (li) element */
+li {
+    position: relative;
+    list-style: none;
+    padding-left: 30px;
+    margin-bottom: 15px;
 }
 
 /* Style Footer and copy right message */
