@@ -110,7 +110,7 @@
     position: absolute;
 }
 
-/* Meditation Section Styling */
+/*  Section Styling */
 
 .center {
     margin: auto;
@@ -137,6 +137,17 @@ hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px;
+}
+
+/* Styling for med-intro mind-intro and yoga-intro */
+
+.med-intro,
+.mind-intro,
+.yoga-intro {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
 }
 
 /* Styling images */
