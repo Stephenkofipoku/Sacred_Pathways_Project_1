@@ -231,6 +231,13 @@ ol li:before {
     margin-bottom: 30px;
 }
 
+ol li {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+}
+
 /* Style Footer and copy right message */
 
 footer {
