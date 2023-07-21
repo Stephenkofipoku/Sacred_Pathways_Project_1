@@ -201,6 +201,25 @@ li {
     margin-bottom: 15px;
 }
 
+/* Style for the numbering of the list items */
+
+ol li:before {
+    counter-increment: list-counter;
+    content: counter(list-counter);
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4a0a53;
+}
+
+.meditation ol,
+.mindfulness ol,
+.yoga ol {
+    margin-bottom: 30px;
+}
+
 /* Style Footer and copy right message */
 
 footer {
