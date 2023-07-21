@@ -307,25 +307,61 @@ footer {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: relative;
 }
 
-#hero-cover-text h2,
-#hero-cover-text h3 {
+#hero-cover-text,
+#hero-cover-text h2 {
     color: #fff;
 }
 
-.hero-image {
+#hero-image {
     height: 600px;
     width: 100%;
     margin-bottom: 100px;
     background: url("../images/hero-image.jpg") no-repeat center center;
+    background-size: cover;
+    flex: 1;
 
     /* Animates zoom effect on page loading */
     animation-name: home-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+}
+
+/* Creat level of zoom for home image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+#hero-cover-text {
+    font-size: 120%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 220px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 165, 0, 0.7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
 
 /* Style Additional resources section */
