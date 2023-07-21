@@ -144,10 +144,13 @@ hr {
 }
 
 div.med-photos {
-    width: 80%;
-    background-color: white;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 25px;
+    border-radius: 8px;
+    overflow: hidden;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
+}
 }
 
 div.container {
@@ -199,10 +202,13 @@ hr {
 }
 
 div.mind-photos {
-    width: 80%;
-    background-color: white;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 25px;
+    border-radius: 8px;
+    overflow: hidden;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
+}
 }
 
 div.mind-container {
@@ -239,10 +245,13 @@ h2 {
 }
 
 div.yoga-photos {
-    width: 80%;
-    background-color: white;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 25px;
+    border-radius: 8px;
+    overflow: hidden;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
+}
 }
 
 div.yoga-container {
@@ -332,11 +341,11 @@ footer {
 /* Style Additional resources section */
 
 .resources {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #f9f9f9;
-  border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
 }
 
 .resources h2 {
@@ -346,26 +355,26 @@ footer {
 }
 
 .resources hr {
-  border-top: 1px solid #3a3a3a;
-  margin: 20px auto;
+    border-top: 1px solid #3a3a3a;
+    margin: 20px auto;
 }
 
 .resources ul {
-  list-style-type: none;
-  padding-left: 0;
+    list-style-type: none;
+    padding-left: 0;
 }
 
 .resources li {
-  margin-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .resources li a {
-  color: #3498db;
-  text-decoration: none;
+    color: #3498db;
+    text-decoration: none;
 }
 
 .resources li a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 /* Feedback form section styles */
