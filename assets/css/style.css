@@ -57,7 +57,12 @@
     height: 600px;
     width: 100%;
     overflow: hidden;
-
+    display: flex;
+    /* Add this to use Flexbox */
+    align-items: center;
+    /* Vertically center the content */
+    justify-content: center;
+    /* Horizontally center the content */
     position: relative;
 }
 
@@ -71,6 +76,8 @@
     width: 100%;
     margin-bottom: 100px;
     background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
+    background-size: cover;
+    flex: 1;
 
     /* Animates zoom effect on page loading */
     animation-name: home-zoom;
