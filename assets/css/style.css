@@ -36,6 +36,7 @@
 #menu {
     display: flex;
     align-items: center;
+    letter-spacing: 4px;
 }
 
 #menu ul {
@@ -45,7 +46,9 @@
 }
 
 #menu li {
-    margin-left: 30px;
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
 
 #menu a {
