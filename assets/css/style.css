@@ -345,13 +345,13 @@ footer {
 }
 
 #hero-cover-text {
-    font-size: 120%;
+    font-size: 110%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
     width: 300px;
-    height: 220px;
+    height: 230px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -450,4 +450,15 @@ button:hover {
 
 button[type="submit"] {
     align-self: flex-end;
+}
+
+/* Add spacing between the feedback form and request form */
+#feedback-form,
+#request-form {
+    margin-top: 40px;
+}
+
+/* Add spacing between the request form and the footer */
+#request-form {
+    margin-bottom: 60px;
 }
