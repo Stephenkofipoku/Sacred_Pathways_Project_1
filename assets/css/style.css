@@ -231,11 +231,23 @@ ol li:before {
     margin-bottom: 30px;
 }
 
+/* Styl of text ordered list of steps in meditation, mindfulness and yoga */
+
 ol li {
     font-size: 18px;
     line-height: 1.6;
     color: #333;
     margin-bottom: 20px;
+}
+
+/* Style of h3 of Steps in meditation, mindfulness and yoga */
+
+.steps-container h3 {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    padding: 10px, 0, 10px, 0;
+    text-transform: uppercase;
 }
 
 /* Style Footer and copy right message */
