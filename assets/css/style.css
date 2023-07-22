@@ -73,16 +73,13 @@
     width: 100%;
     overflow: hidden;
     display: flex;
-    /* Add this to use Flexbox */
     align-items: center;
-    /* Vertically center the content */
     justify-content: center;
-    /* Horizontally center the content */
     position: relative;
 }
 
 #cover-text,
-#cover-text h2 {
+d #cover-text h2 {
     color: #fff;
 }
 
