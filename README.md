@@ -8,7 +8,7 @@ This website is a sanctuary dedicated to the transformative power of meditation,
 
 ## Purpose
 
-Milestone Project portfolio 1. HTML and CSS project
+Sacred Pathways, we are dedicated to guiding you on a transformative journey towards inner peace and self-discovery. Our website is a sanctuary for those seeking harmony of mind, body, and soul through the profound practices of meditation, mindfulness, and yoga.
 
 ## Wireframe
 
