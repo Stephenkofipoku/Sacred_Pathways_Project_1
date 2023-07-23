@@ -259,6 +259,13 @@ ol li {
     margin-bottom: 20px;
 }
 
+aside p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 20px;
+}
+
 /* Style of h3 of Steps in meditation, mindfulness and yoga */
 
 .steps-container h3 {
