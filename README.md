@@ -38,3 +38,9 @@ Google Fonts was used for this website.
 
 Lato for the headings and Oswald for the body text and sans-serif in replacement.
 
+## Imagery
+
+The website uses to depict the theme of meditation, minfulness and yoga. The homepage image which serves as the landing page is carefully selected to reflect the theme. Two images are selected for each of the sections of meditation, mindfulness and yoga. The community and support page also has an image carefully selected to reflect a community of practitioners supporting each other.
+
+
+
