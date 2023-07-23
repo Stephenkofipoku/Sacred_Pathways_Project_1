@@ -10,6 +10,10 @@ This website is a sanctuary dedicated to the transformative power of meditation,
 
 Sacred Pathways, we are dedicated to guiding you on a transformative journey towards inner peace and self-discovery. Our website is a sanctuary for those seeking harmony of mind, body, and soul through the profound practices of meditation, mindfulness, and yoga.
 
+We invite you to explore our website, to immerse yourself in the teachings and practices we offer, and to embark on a path of self-discovery and personal growth. Together, let us create lives filled with authenticity, joy, and a profound sense of purpose. Welcome to a world of body, mind, and soul experiences that will guide you towards a life of greater meaning and fulfillment.
+
+# Design
+
 ## Wireframe
 
 This is basic sketch and spacial planning of the project using Balsamiq. Below is the structure giving a layout of the Main page which will have the logo on the left, the menu on the right, main image at the lop below the header and showing the various sections of the website which will be Meditation, Minfulness and Yoga. The next page is the Community and Support which will have the form for contacting Sacred Pathways, providing feedback and also additional resources for advance exploration and learning on each of the practices.
@@ -21,3 +25,7 @@ The Sections will be Landing Sections/Home, Meditation, Mindfulness, Yoga. The C
 ![Sacred Pathway Wireframe page 1](./documents/wireframe1-sacredpathway.png)
 
 ![Sacred Pathway Wifreframe page 2](./documents/wireframe2-sacredpathway.png)
+
+## Color Scheme
+
+The color scheme was carefully selected to reflect the calm and natural environment that suits the theme of meditation, mindfulness and yoga.
