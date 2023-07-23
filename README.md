@@ -29,3 +29,12 @@ The Sections will be Landing Sections/Home, Meditation, Mindfulness, Yoga. The C
 ## Color Scheme
 
 The color scheme was carefully selected to reflect the calm and natural environment that suits the theme of meditation, mindfulness and yoga.
+
+The color scheme used is a mainly white background with natural feel, violet, orange, gray and light blue touch.
+
+## Typography
+
+Google Fonts was used for this website. 
+
+Lato for the headings and Oswald for the body text and sans-serif in replacement.
+
