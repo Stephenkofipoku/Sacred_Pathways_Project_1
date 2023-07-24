@@ -524,4 +524,8 @@ button[type="submit"] {
     .yoga-intro {
         font-size: 16px;
     }
+
+    .steps-container h3 {
+        font-size: 20px;
+    }
 }
