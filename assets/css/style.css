@@ -555,4 +555,10 @@ button[type="submit"] {
     textarea {
         width: 100%;
     }
+
+    /* Media query style for Additional Resources Section */
+
+    .resources {
+        max-width: 90%;
+    }
 }
