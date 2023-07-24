@@ -512,4 +512,12 @@ button[type="submit"] {
     #menu a {
         font-size: 120%;
     }
+
+    /* Media query style for sections */
+
+    .center {
+        width: 90%;
+    }
+
+
 }
