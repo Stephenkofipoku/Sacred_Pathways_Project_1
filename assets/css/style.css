@@ -543,4 +543,16 @@ button[type="submit"] {
     .social-networks li {
         margin: 0 10px;
     }
+
+    /* Media query style for mobile screens for Feedback and Request Forms */
+
+    .form-section {
+        max-width: 100%;
+        margin: 0 10px;
+    }
+
+    input,
+    textarea {
+        width: 100%;
+    }
 }
