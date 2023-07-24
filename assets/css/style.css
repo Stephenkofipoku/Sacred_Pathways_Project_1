@@ -519,5 +519,9 @@ button[type="submit"] {
         width: 90%;
     }
 
-
+    .med-intro,
+    .mind-intro,
+    .yoga-intro {
+        font-size: 16px;
+    }
 }
