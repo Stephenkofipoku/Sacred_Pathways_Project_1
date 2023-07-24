@@ -477,7 +477,7 @@ button[type="submit"] {
     }
 }
 
-/* For media screen sizes 950px wide adn down */
+/* For media screen sizes 950px wide and down */
 @media screen and (max-width: 950px) {
 
     #menu {
@@ -519,7 +519,16 @@ button[type="submit"] {
     }
 
     #menu a {
-        font-size: 120%;
+        font-size: 100%;
+    }
+
+    /* Home Image and Cover Text */
+    #home-outer {
+        height: 400px;
+    }
+
+    #home-image {
+        height: 400px;
     }
 
     /* Media query style for sections */
