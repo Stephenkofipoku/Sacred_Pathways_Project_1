@@ -528,4 +528,19 @@ button[type="submit"] {
     .steps-container h3 {
         font-size: 20px;
     }
+
+    /* Media query style mobile for footer */
+    footer {
+        height: auto;
+        padding: 20px 0 40px;
+    }
+
+    .social-networks {
+        display: flex;
+        justify-content: center;
+    }
+
+    .social-networks li {
+        margin: 0 10px;
+    }
 }
