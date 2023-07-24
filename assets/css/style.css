@@ -468,6 +468,15 @@ button[type="submit"] {
     margin-bottom: 60px;
 }
 
+/* For media screen sizes 1200px wide and below */
+@media screen and (max-width: 1200px) {
+
+    /* Navigation Menu */
+    #menu {
+        font-size: 100%;
+    }
+}
+
 /* For media screen sizes 950px wide adn down */
 @media screen and (max-width: 950px) {
 
