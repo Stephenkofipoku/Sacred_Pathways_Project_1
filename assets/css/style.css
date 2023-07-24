@@ -500,5 +500,16 @@ button[type="submit"] {
         z-index: 1;
     }
 
+    #menu ul {
+        padding: 10px;
+    }
 
+    #menu li {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    #menu a {
+        font-size: 120%;
+    }
 }
