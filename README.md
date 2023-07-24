@@ -54,6 +54,20 @@ The Community and support page maintains the same page structure of logo, menu a
 
 The footer has the social media links that opens in different tabs.
 
+### Existing Features
+
+Both pages of the webiste has the following features:
+
+    + Logo
+        The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
+    
+    + Navigation bars
+        Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
+    
+    + 
+
+
+
 
 
 

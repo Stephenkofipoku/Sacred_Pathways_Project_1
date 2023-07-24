@@ -250,7 +250,7 @@ ol li:before {
     margin-bottom: 30px;
 }
 
-/* Styl of text ordered list of steps in meditation, mindfulness and yoga */
+/* Styl of text ordered list of steps in meditation, mindfulness and yoga and aside paragraph */
 
 ol li {
     font-size: 18px;
@@ -477,6 +477,11 @@ button[type="submit"] {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+        display: none;
     }
 
+    #logo {
+        text-align: center;
+        margin: 10px auto;
+    }
 }
