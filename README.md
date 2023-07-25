@@ -58,13 +58,13 @@ The footer has the social media links that opens in different tabs.
 
 Both pages of the webiste has the following features:
 
-    + Logo
+    - Logo
         The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
     
-    + Navigation bars
+    - Navigation bars
         Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
     
-    + 
+    ![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png) 
 
 
 
