@@ -58,69 +58,86 @@ The footer has the social media links that opens in different tabs.
 
 Both pages of the webiste has the following features:
 
-    - Logo
-        The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
+- Logo
+    The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
 
-    - Navigation bars
-        Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
+- Navigation bars
+    Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
 
-    ![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png)
+![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png)
 
-    - Footer
-        The footer has the social media links and also the copyright statment. The social media links are represented with icons with anchor elements that opens in different tabs when clicked in order to not distract users in the main site.
+- Footer
+    The footer has the social media links and also the copyright statment. The social media links are represented with icons with anchor elements that opens in different tabs when clicked in order to not distract users in the main site.
 
-        ![Footer](./documents/sacred-pathwyas-footer-image.png)
+![Footer](./documents/sacred-pathwyas-footer-image.png)
 
 ### Home Page
 
-    - The Home page has the home image of the website should evoke a sense of tranquility and calmness. The colors used in the image depicts soothing and harmonious, such as soft greens, blues, or earthy tones. The image is gentle and has inviting vibe, encouraging visitors to explore the website further and engage in practices that promote relaxation, self-awareness, and well-being.
+- The Home page has the home image of the website should evoke a sense of tranquility and calmness. The colors used in the image depicts soothing and harmonious, such as soft greens, blues, or earthy tones. The image is gentle and has inviting vibe, encouraging visitors to explore the website further and engage in practices that promote relaxation, self-awareness, and well-being.
 
-    - The cover text is overlaid on the home image with theme of the website in a transparent orange background
+- The cover text is overlaid on the home image with theme of the website in a transparent orange background
 
-    - The home image and cover text is given a 10% foward zoom effect to make it appealing to visitors and catch attention.
+- The home image and cover text is given a 10% foward zoom effect to make it appealing to visitors and catch attention.
 
-    ![Home Image and Landing Page](./documents/sacred-pathways-home-image.png)
+![Home Image and Landing Page](./documents/sacred-pathways-home-image.png)
 
 #### Meditation Section
 
-    The meditation section starts with a header and icon from fontawesome to depict meditation. It follows with an introductory paragraph to meditation and an 2 images of meditation. The images have alt text for assisted technology to describe the image and also a decriptive text of the images under the images. These images are carefully chosen with calm and natural backgrounds to depict the theme.
+The meditation section starts with a header and icon from fontawesome to depict meditation. It follows with an introductory paragraph to meditation and an 2 images of meditation. The images have alt text for assisted technology to describe the image and also a decriptive text of the images under the images. These images are carefully chosen with calm and natural backgrounds to depict the theme.
 
-    ![Meditation section](./documents/sacred-pathways-meditation-image.png)
+![Meditation section](./documents/sacred-pathways-meditation-image.png)
 
-    - Steps in Meditation
+- Steps in Meditation
         This is a sub section of the meditation section which gives basic steps to follow to begin the practice of meditation. This is no way an exhaustive guide but only to provide a basic initiation of users to meditional and additional resources are provided to visitors who are interested in taking it further.
 
-        ![Steps in Meditation](./documents/sacred-pathways-med-steps-image.png)
+    ![Steps in Meditation](./documents/sacred-pathways-med-steps-image.png)
 
 ### Mindfulness Section
 
-    The Mindfulness section starts with a header and an icon from fontawesome that represnts mindfulness. There is an introductory paragraph and 2 images, one in indoor settings with candlelight and the other in natural green environment. These images have alt descriptive text for assisted technologies for visually impaired users.
+The Mindfulness section starts with a header and an icon from fontawesome that represnts mindfulness. There is an introductory paragraph and 2 images, one in indoor settings with candlelight and the other in natural green environment. These images have alt descriptive text for assisted technologies for visually impaired users.
 
-    - Steps in Mindfulness
-        This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulenss. Additional resources are provided in the additional resouces sector on the community and support page for those that are interested in exploring more.
+- Steps in Mindfulness
+    This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulenss. Additional resources are provided in the additional resouces sector on the community and support page for those that are interested in exploring more.
 
-        ![Steps in Mindfulness snapshot](./documents/sacred-pathways-mind-steps-image.png)
+    ![Steps in Mindfulness snapshot](./documents/sacred-pathways-mind-steps-image.png)
 
 ### Yoga Section
 
-    The Yoga section as well starts with a header and an icon that represents yoga. This is followed by an introductory paragraph and two images of a group of people in yoga practice. The images have descriptive text both under the images and also in alt for assisted tecnology for machine reading for visually impaired users.
+The Yoga section as well starts with a header and an icon that represents yoga. This is followed by an introductory paragraph and two images of a group of people in yoga practice. The images have descriptive text both under the images and also in alt for assisted tecnology for machine reading for visually impaired users.
 
-    - Steps in Yoga
-        This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
+- Steps in Yoga
+    This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
 
-        ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
+    ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
 
 ### Community & Support Page
+
     The community and support page share the navigation menu and footer like the home page. It has a different hero image. The hero image here is an image of a community of practitioners supporting each other carefully selected to represent the theme of the website. It also has a cover text in an transparent orange background enjoining users to join the discussion on body, mind and soul.
 
-    - Additional Resources Section
-        This is a section that provides list of resouces that users can explore for more on meditation, mindfulenss and yoga.
-    
-    - Feedback Form
-        This is a form that has fields for Name, email and message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
+![Community and support page snapshot](./documents/sacred-pathways-comm-support-page-image.png)
 
-    - Request From
-        This is a request form for users who have additional request for information or any speicial request. The fields are required, you have to input your email and you request message and then send. You will recieve an submit message that indicates that you have successfully sent a request.
+- Additional Resources Section
+    This is a section that provides list of resouces that users can explore for more on meditation, mindfulenss and yoga.
 
+![Additional resources section snapshot](./documents/sacred-pathways-additional-resources-image.png)
 
+- Feedback Form
+    This is a form that has fields for Name, email and message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
 
+![Feedback forms snapshot](./documents/sacred-pathways-feedback-form-image.png)
+
+ - Request From
+    This is a request form for users who have additional request for information or any speicial request. The fields are required, you have to input your email and you request message and then send. You will recieve an submit message that indicates that you have successfully sent a request.
+
+![Request form snapshot](./documents/sacred-pathways-request-form-image.png)
+
+### Accessibity
+
+The website is made accessible-friendly as possible through the following measures:
+
+- Utilizing semantic HTML to provide meaningful structure and enhance accessibility.
+- Incorporating descriptive alt attributes for images on the site to provide alternative text for screen readers.
+- Ensuring an adequate color contrast across the site to improve readability for users with visual impairments. I employed the contrast checker provided by WebAIM to validate the contrast ratio between the selected foreground color and background color.
+- Making menus accessible by indicating the current page as "current" for screen readers, aiding navigation and orientation.
+
+By implementing the above measures the over all accessibiity of the website is enhanced.
