@@ -109,3 +109,18 @@ Both pages of the webiste has the following features:
         This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
 
         ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
+
+### Community & Support Page
+    The community and support page share the navigation menu and footer like the home page. It has a different hero image. The hero image here is an image of a community of practitioners supporting each other carefully selected to represent the theme of the website. It also has a cover text in an transparent orange background enjoining users to join the discussion on body, mind and soul.
+
+    - Additional Resources Section
+        This is a section that provides list of resouces that users can explore for more on meditation, mindfulenss and yoga.
+    
+    - Feedback Form
+        This is a form that has fields for Name, email and message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
+
+    - Request From
+        This is a request form for users who have additional request for information or any speicial request. The fields are required, you have to input your email and you request message and then send. You will recieve an submit message that indicates that you have successfully sent a request.
+
+
+
