@@ -66,6 +66,30 @@ Both pages of the webiste has the following features:
     
     ![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png) 
 
+    - Footer
+        The footer has the social media links and also the copyright statment. The social media links are represented with icons with anchor elements that opens in different tabs when clicked in order to not distract users in the main site.
+
+        ![Footer](./documents/sacred-pathwyas-footer-image.png)
+
+### Home Page
+
+    - The Home page has the home image of the website should evoke a sense of tranquility and calmness. The colors used in the image depicts soothing and harmonious, such as soft greens, blues, or earthy tones. The image is gentle and has inviting vibe, encouraging visitors to explore the website further and engage in practices that promote relaxation, self-awareness, and well-being.
+
+    - The cover text is overlaid on the home image with theme of the website in a transparent orange background
+
+    - The home image and cover text is given a 10% foward zoom effect to make it appealing to visitors and catch attention.
+
+    ![Home Image and Landing Page](./documents/sacred-pathways-home-image.png)
+
+#### Meditation Section
+    The meditation section starts with a header and icon from fontawesome to depict meditation. It follows with an introductory paragraph to meditation and an 2 images of meditation. The images have alt text for assisted technology to describe the image and also a decriptive text of the images under the images. These images are carefully chosen with calm and natural backgrounds to depict the theme.
+
+    ![Meditation section](./documents/sacred-pathways-meditation-image.png)
+
+    - Steps in Meditation
+        
+
+
 
 
 
