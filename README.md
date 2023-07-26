@@ -34,7 +34,7 @@ The color scheme used is a mainly white background with natural feel, violet, or
 
 ## Typography
 
-Google Fonts was used for this website. 
+Google Fonts was used for this website.
 
 Lato for the headings and Oswald for the body text and sans-serif in replacement.
 
@@ -60,11 +60,11 @@ Both pages of the webiste has the following features:
 
     - Logo
         The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
-    
+
     - Navigation bars
         Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
-    
-    ![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png) 
+
+    ![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png)
 
     - Footer
         The footer has the social media links and also the copyright statment. The social media links are represented with icons with anchor elements that opens in different tabs when clicked in order to not distract users in the main site.
@@ -82,17 +82,30 @@ Both pages of the webiste has the following features:
     ![Home Image and Landing Page](./documents/sacred-pathways-home-image.png)
 
 #### Meditation Section
+
     The meditation section starts with a header and icon from fontawesome to depict meditation. It follows with an introductory paragraph to meditation and an 2 images of meditation. The images have alt text for assisted technology to describe the image and also a decriptive text of the images under the images. These images are carefully chosen with calm and natural backgrounds to depict the theme.
 
     ![Meditation section](./documents/sacred-pathways-meditation-image.png)
 
     - Steps in Meditation
-        
+        This is a sub section of the meditation section which gives basic steps to follow to begin the practice of meditation. This is no way an exhaustive guide but only to provide a basic initiation of users to meditional and additional resources are provided to visitors who are interested in taking it further.
 
+        ![Steps in Meditation](./documents/sacred-pathways-med-steps-image.png)
 
+### Mindfulness Section
 
+    The Mindfulness section starts with a header and an icon from fontawesome that represnts mindfulness. There is an introductory paragraph and 2 images, one in indoor settings with candlelight and the other in natural green environment. These images have alt descriptive text for assisted technologies for visually impaired users.
 
+    - Steps in Mindfulness
+        This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulenss. Additional resources are provided in the additional resouces sector on the community and support page for those that are interested in exploring more.
 
+        ![Steps in Mindfulness snapshot](./documents/sacred-pathways-mind-steps-image.png)
 
+### Yoga Section
 
+    The Yoga section as well starts with a header and an icon that represents yoga. This is followed by an introductory paragraph and two images of a group of people in yoga practice. The images have descriptive text both under the images and also in alt for assisted tecnology for machine reading for visually impaired users.
 
+    - Steps in Yoga
+        This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
+
+        ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
