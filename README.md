@@ -131,6 +131,11 @@ The Yoga section as well starts with a header and an icon that represents yoga. 
 
 ![Request form snapshot](./documents/sacred-pathways-request-form-image.png)
 
+- Meeting Times Section
+    This is a section giving the days and times for meditation, mindfulness, yoga and coffee meetings and the venues for these meetings.
+
+![Meeting sessions snapshot](./documents/sacred-pathways-times-image.png)
+
 ### Accessibity
 
 The website is made accessible-friendly as possible through the following measures:
