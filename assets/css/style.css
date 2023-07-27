@@ -467,6 +467,17 @@ button[type="submit"] {
     margin-bottom: 60px;
 }
 
+/* Style Times Section */
+
+#times {
+    background-image: url("../images/sacredpathway-meetingtimes-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
 /* For media screen sizes 1200px wide and below */
 @media screen and (max-width: 1200px) {
 
