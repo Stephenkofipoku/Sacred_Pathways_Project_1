@@ -458,7 +458,7 @@ button[type="submit"] {
 /* Add spacing between the feedback form and request form */
 .feedback-form,
 .request-form {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 /* Add spacing between the request form and the footer */
