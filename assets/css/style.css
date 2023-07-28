@@ -376,6 +376,7 @@ footer {
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 8px;
+    margin-bottom: 20px;
 }
 
 .resources h2 {
@@ -410,33 +411,28 @@ footer {
 /* Form section Feedback and Request */
 .form-section {
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 40px auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-h2 {
-    margin-bottom: 20px;
-    text-align: center;
+.feedback-form,
+.request-form {
+    flex-basis: 48%;
+    box-sizing: border-box;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
+.feedback-form {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
 }
 
-label {
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-input,
-textarea {
-    margin-bottom: 15px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+.request-form {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
 }
 
 button {
@@ -457,13 +453,13 @@ button[type="submit"] {
 }
 
 /* Add spacing between the feedback form and request form */
-#feedback-form,
-#request-form {
+.feedback-form,
+.request-form {
     margin-top: 40px;
 }
 
 /* Add spacing between the request form and the footer */
-#request-form {
+.request-form {
     margin-bottom: 60px;
 }
 
@@ -608,5 +604,21 @@ button[type="submit"] {
 
     .resources {
         max-width: 90%;
+    }
+}
+
+/* Media query for smaller screen sizes */
+@media screen and (max-width: 768px) {
+    .form-section {
+        flex-direction: column;
+    }
+
+    .feedback-form,
+    .request-form {
+        flex-basis: 100%;
+    }
+
+    .feedback-form {
+        margin-bottom: 20px;
     }
 }
