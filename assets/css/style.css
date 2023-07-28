@@ -497,7 +497,13 @@ button[type="submit"] {
     color: #fafafa;
 }
 
-
+/* Style Floating Home Icon */
+.floating-home-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
 
 /* For media screen sizes 1200px wide and below */
 @media screen and (max-width: 1200px) {
