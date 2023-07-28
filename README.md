@@ -59,15 +59,15 @@ The footer has the social media links that opens in different tabs.
 Both pages of the webiste has the following features:
 
 - Logo
-    The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
+  The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
 
 - Navigation bars
-    Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
+  Fully responsive navigaton bars that jumps you to the section of the corresponding section of the page or another page depending on on the selected menu.
 
 ![A screenshot of navigation bar](./documents/sacred-pathways-nav-image.png)
 
 - Footer
-    The footer has the social media links and also the copyright statment. The social media links are represented with icons with anchor elements that opens in different tabs when clicked in order to not distract users in the main site.
+  The footer has the social media links and also the copyright statment. The social media links are represented with icons with anchor elements that opens in different tabs when clicked in order to not distract users in the main site.
 
 ![Footer](./documents/sacred-pathwyas-footer-image.png)
 
@@ -88,27 +88,27 @@ The meditation section starts with a header and icon from fontawesome to depict 
 ![Meditation section](./documents/sacred-pathways-meditation-image.png)
 
 - Steps in Meditation
-        This is a sub section of the meditation section which gives basic steps to follow to begin the practice of meditation. This is no way an exhaustive guide but only to provide a basic initiation of users to meditional and additional resources are provided to visitors who are interested in taking it further.
+  This is a sub section of the meditation section which gives basic steps to follow to begin the practice of meditation. This is no way an exhaustive guide but only to provide a basic initiation of users to meditional and additional resources are provided to visitors who are interested in taking it further.
 
-    ![Steps in Meditation](./documents/sacred-pathways-med-steps-image.png)
+  ![Steps in Meditation](./documents/sacred-pathways-med-steps-image.png)
 
 ### Mindfulness Section
 
 The Mindfulness section starts with a header and an icon from fontawesome that represnts mindfulness. There is an introductory paragraph and 2 images, one in indoor settings with candlelight and the other in natural green environment. These images have alt descriptive text for assisted technologies for visually impaired users.
 
 - Steps in Mindfulness
-    This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulenss. Additional resources are provided in the additional resouces sector on the community and support page for those that are interested in exploring more.
+  This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulenss. Additional resources are provided in the additional resouces sector on the community and support page for those that are interested in exploring more.
 
-    ![Steps in Mindfulness snapshot](./documents/sacred-pathways-mind-steps-image.png)
+  ![Steps in Mindfulness snapshot](./documents/sacred-pathways-mind-steps-image.png)
 
 ### Yoga Section
 
 The Yoga section as well starts with a header and an icon that represents yoga. This is followed by an introductory paragraph and two images of a group of people in yoga practice. The images have descriptive text both under the images and also in alt for assisted tecnology for machine reading for visually impaired users.
 
 - Steps in Yoga
-    This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
+  This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
 
-    ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
+  ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
 
 ### Community & Support Page
 
@@ -117,22 +117,22 @@ The Yoga section as well starts with a header and an icon that represents yoga. 
 ![Community and support page snapshot](./documents/sacred-pathways-comm-support-page-image.png)
 
 - Additional Resources Section
-    This is a section that provides list of resouces that users can explore for more on meditation, mindfulenss and yoga.
+  This is a section that provides list of resouces that users can explore for more on meditation, mindfulenss and yoga.
 
 ![Additional resources section snapshot](./documents/sacred-pathways-additional-resources-image.png)
 
 - Feedback Form
-    This is a form that has fields for Name, email and message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
+  This is a form that has fields for Name, email and message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
 
 ![Feedback forms snapshot](./documents/sacred-pathways-feedback-form-image.png)
 
- - Request From
-    This is a request form for users who have additional request for information or any speicial request. The fields are required, you have to input your email and you request message and then send. You will recieve an submit message that indicates that you have successfully sent a request.
+- Request From
+  This is a request form for users who have additional request for information or any speicial request. The fields are required, you have to input your email and you request message and then send. You will recieve an submit message that indicates that you have successfully sent a request.
 
 ![Request form snapshot](./documents/sacred-pathways-request-form-image.png)
 
 - Meeting Times Section
-    This is a section giving the days and times for meditation, mindfulness, yoga and coffee meetings and the venues for these meetings.
+  This is a section giving the days and times for meditation, mindfulness, yoga and coffee meetings and the venues for these meetings.
 
 ![Meeting sessions snapshot](./documents/sacred-pathways-times-image.png)
 
@@ -146,3 +146,23 @@ The website is made accessible-friendly as possible through the following measur
 - Making menus accessible by indicating the current page as "current" for screen readers, aiding navigation and orientation.
 
 By implementing the above measures the over all accessibiity of the website is enhanced.
+
+## Technologies Used
+
+### Languages Used
+
+    This project was created using only HTML and CSS.
+
+### Frameworks, Libraries & Programs Used
+
+    Codeanywhere was used to create the codes and GitHub was used to create the repository for storage of the codes created in codeanywhere.
+
+    GitHub was also used to share to share work with my mentor for review and for deployment of the website.
+
+    Google Fonts were used in creating the website.
+
+    Icons used in the website were taken from Font Awesome free icons.
+
+    Images were taken from pexels.com free istock photos. All the images, home image, hero image and the images for meditation, mindfulenss and yoga were taken from pexels.com.
+
+    The Google Dev Tools was used identify bugs and for debugging and to test responsiveness of the website to different screen sizes.
