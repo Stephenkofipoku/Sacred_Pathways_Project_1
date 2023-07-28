@@ -145,6 +145,10 @@ d #cover-text h2 {
     text-align: left;
 }
 
+h2 {
+    text-align: center;
+}
+
 .meditation>p,
 .mindfulness>p,
 .yoga>p {
@@ -227,7 +231,7 @@ li {
     position: relative;
     list-style: none;
     padding-left: 15px;
-    margin-bottom: 5px;
+    margin-bottom: px;
 }
 
 /* Style for the numbering of the list items */
