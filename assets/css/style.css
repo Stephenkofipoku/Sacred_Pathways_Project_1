@@ -469,7 +469,8 @@ footer {
     resize: vertical;
 }
 
-button {
+.feedback-form button,
+.request-form button {
     background-color: #3498db;
     color: #fff;
     padding: 10px 20px;
@@ -478,7 +479,8 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.feedback-form button:hover,
+.request-form button:hover {
     background-color: #2980b9;
 }
 
@@ -487,9 +489,8 @@ button[type="submit"] {
 }
 
 /* Add spacing between the feedback form and request form */
-.feedback-form,
 .request-form {
-    margin-top: 20px;
+    margin-left: 40px;
 }
 
 /* Add spacing between the request form and the footer */
