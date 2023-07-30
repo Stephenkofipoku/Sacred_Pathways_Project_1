@@ -187,11 +187,11 @@ By implementing the above measures the over all accessibiity of the website is e
 
 ### User Story 1
     Name: Alex (Male, Software Engineer)
-    Background: Alex works as a software engineer in a fast-paced tech company. He often feels stressed and mentally exhausted due to the demanding nature of his job. Seeking ways to find inner peace and balance, Alex discovers Sacred Pathways. The website's comprehensive resources on meditation, mindfulness, and yoga resonate with him. He visits the site regularly to practice guided meditation sessions, which helps him reduce stress and improve his focus at work. Alex appreciates the user-friendly design and engaging content, making him recommend Sacred Pathways to his colleagues who are also seeking relaxation techniques.
+    Background: Alex works as a software engineer in a fast-paced tech company. He often feels stressed and mentally exhausted due to the demanding nature of his job. Seeking ways to find inner peace and balance, Alex discovers Sacred Pathways. The website's comprehensive resources on meditation, mindfulness, and yoga resonate with him. He visits the site regularly to practice guided meditation sessions, which helps him reduce stress and improve his focus at work. Alex appreciates the user-friendly design and engaging content, making him recommend Sacred Pathways to his colleagues who are also seeking relaxation techniques. The navigation links and homing incons make the website so interactive, responsive and user-friendly.
 
 ### User Story 2
     Name: Sarah (Female, Yoga Instructor)
-    Background: Sarah is a dedicated yoga instructor with a passion for sharing the benefits of yoga with others. She comes across Sacred Pathways during her research for new yoga sequences and teaching methods. Impressed with the yoga section of the website, she finds creative ideas and inspiration to incorporate into her classes. Sarah appreciates the curated resources and in-depth articles, which deepen her understanding of yoga philosophy. She visits Sacred Pathways regularly to access new content and participates in the yoga sessions to connect with like-minded individuals. As a yoga enthusiast and instructor, she happily recommends the platform to her students and fellow instructors.
+    Background: Sarah is a dedicated yoga instructor with a passion for sharing the benefits of yoga with others. She comes across Sacred Pathways during her research for new yoga sequences and teaching methods. Impressed with the yoga section of the website, she finds creative ideas and inspiration to incorporate into her classes. Sarah appreciates the curated resources and in-depth articles, which deepen her understanding of yoga philosophy. She visits Sacred Pathways regularly to access new content and participates in the yoga sessions to connect with like-minded individuals. As a yoga enthusiast and instructor, she happily recommends the platform to her students and fellow instructors. The calming and natural colors of the webisite make it so attractive.
 
 ### User Story 3
     Name: David (Male, Spiritual Seeker)
@@ -204,3 +204,13 @@ By implementing the above measures the over all accessibiity of the website is e
 ### User Story 5
     Name: Michael (Male, Athlete)
     Background: Michael is a professional athlete who seeks ways to enhance his performance and mental focus. After reading about the benefits of meditation and mindfulness for athletes, he stumbles upon Sacred Pathways. The platform's meditation techniques for athletes, combined with yoga for physical flexibility, intrigue him. Michael incorporates these practices into his training routine and experiences improved concentration and relaxation during competitions. Impressed with the positive impact on his athletic performance, Michael recommends Sacred Pathways to his teammates and coaches. He finds value in the specialized content catered to athletes, making him return to the website regularly to enhance his sports performance and well-being.
+
+## Testing and Solved
+
+**TEST** | **ACTION** | **EXPECTATION** |  **RESULT** |
+----------|----------|----------|----------
+Home page | Using Chrom Dev Tools size to 950px | Elements and flow looks good @ 950px and down | Works as expected
+Home page | Using Chrom Dev Tols size to 320px | Elements and flow looks good @ 320px and down | Works as expected
+Nav bars - Home page | Click nav menu buttons | Each nav element takes you to the correction section or page | Works as expected
+Floating Nav icons - Home and Community Support | Click on the floating icon | Each takes you to the top of the corresponding page | Works as expected
+Menu Icons | Using Chrom Dev Tools size to 950px and down | Menu text hidden but icons appear | Works as expected
