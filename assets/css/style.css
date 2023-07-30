@@ -396,6 +396,7 @@ footer {
 .resources ul {
     list-style-type: none;
     padding-left: 0;
+    font-size: 1.2rem;
 }
 
 .resources li {
@@ -403,7 +404,7 @@ footer {
 }
 
 .resources li a {
-    color: #3498db;
+    color: #345edb;
     text-decoration: none;
 }
 
@@ -471,7 +472,7 @@ footer {
 
 .feedback-form button,
 .request-form button {
-    background-color: #3498db;
+    background-color: #345edb;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -481,7 +482,7 @@ footer {
 
 .feedback-form button:hover,
 .request-form button:hover {
-    background-color: #2980b9;
+    background-color: #345edb;
 }
 
 button[type="submit"] {
