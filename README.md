@@ -211,6 +211,10 @@ By implementing the above measures the over all accessibiity of the website is e
 ----------|----------|----------|----------
 Home page | Using Chrom Dev Tools size to 950px | Elements and flow looks good @ 950px and down | Works as expected
 Home page | Using Chrom Dev Tols size to 320px | Elements and flow looks good @ 320px and down | Works as expected
+Hero page - Community & Support | Using Chrom Dev Tools size to 950px and down and 320px and down | Elements and flow looks good at 950px and down and 320px and down | Works as expected
 Nav bars - Home page | Click nav menu buttons | Each nav element takes you to the correction section or page | Works as expected
 Floating Nav icons - Home and Community Support | Click on the floating icon | Each takes you to the top of the corresponding page | Works as expected
 Menu Icons | Using Chrom Dev Tools size to 950px and down | Menu text hidden but icons appear | Works as expected
+Forms - Feedback and Request | Send feedback or request with wrong data or missing data | Fields must be correctly completed as required | Works as expected
+Forms - Feedbdack adn Request | Correctly complete and send a feedback or request | A code Insitute message page indicating to you that you have successfully sent a feedback or request | Works as expected
+Footer - Social media links | Click on social media links or icons | A new tab opens to the social media page | Works as expected
