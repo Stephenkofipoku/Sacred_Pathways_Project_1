@@ -172,3 +172,11 @@ By implementing the above measures the over all accessibiity of the website is e
 [Am I Responsive snapshot for the website page 1](./documents/sacred-pathways-iamresponsive-page-1.png)
 
 [Am I Responsive snashot for the website page 2](./documents/sacred-pathways-iamresponsive-page-2.png)
+
+    WAVE Evaluation tool was used to evaluate web accessibility within the browser.
+[WAVE Evaluation snapshot](./documents/wave-evaluation-sacred-pathways.png)
+
+    Unicorn Revealer was used to check overflow on the website. This was very useful in checking the overflow from menu navigation, sections, forms and footer.
+[Unicorn Revealer snapshot](./documents/unicorn-reveaer-overflow-sacred-pathways.png)
+
+
