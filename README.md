@@ -166,3 +166,9 @@ By implementing the above measures the over all accessibiity of the website is e
     Images were taken from pexels.com free istock photos. All the images, home image, hero image and the images for meditation, mindfulenss and yoga were taken from pexels.com.
 
     The Google Dev Tools was used identify bugs and for debugging and to test responsiveness of the website to different screen sizes.
+
+    Am I Responsive was used to check the various device breakpoints for responsive design. The page below shows the snapshots from Am I Responsive for the 2 pages of the website:
+
+[Am I Responsive snapshot for the website page 1](./documents/sacred-pathways-iamresponsive-page-1.png)
+
+[Am I Responsive snashot for the website page 2](./documents/sacred-pathways-iamresponsive-page-2.png)

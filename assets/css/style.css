@@ -61,631 +61,647 @@
     border-bottom: 1px solid #3a3a3a;
 }
 
-#menu li a.active {
-    border-bottom: 2px solid #3a3a3a;
-}
+/* Style for menu which indicates the page a user is on */
+#menu li a.active,
+#menu li a:active {
+    border-bottom: 2px solid #3a3a3a;}
 
-/* Home or background image and cover text styling */
+    /* Home or background image and cover text styling */
 
-#home-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-}
-
-#cover-text,
-d #cover-text h2 {
-    color: #fff;
-}
-
-#home-image {
-    height: 600px;
-    width: 100%;
-    margin-bottom: 100px;
-    background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
-    background-size: cover;
-    flex: 1;
-
-    /* Animates zoom effect on page loading */
-    animation-name: home-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
-
-/* Creat level of zoom for home image */
-
-@keyframes home-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
-}
-
-#cover-text {
-    font-size: 120%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-
-    width: 300px;
-    height: 220px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(255, 165, 0, 0.7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
-}
-
-/*  Section Styling */
-
-.center {
-    margin: auto;
-    width: 80%;
-    padding: 10px;
-}
-
-/* Styling of Meditation, Mindfulness and Yoga header, paragraphs and steps of meditation ol */
-
-.flex-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
-}
-
-h2 {
-    text-align: center;
-}
-
-.meditation>p,
-.mindfulness>p,
-.yoga>p {
-    margin-top: 50px;
-}
-
-hr {
-    border-top: 1px solid #3a3a3a;
-    width: 100%;
-    margin: 5px;
-}
-
-/* Styling for med-intro mind-intro and yoga-intro */
-
-.med-intro,
-.mind-intro,
-.yoga-intro {
-    font-size: 18px;
-    line-height: 1.6;
-    color: #333;
-    margin-bottom: 20px;
-}
-
-/* Styling images */
-
-.photos>img {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-div.photos {
-    width: 100%;
-    max-width: 800px;
-    margin: 0 auto 25px;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-div.container {
-    text-align: center;
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.8);
-}
-
-img {
-    display: block;
-    width: 60%;
-    margin: auto;
-}
-
-.meditation,
-.mindfulness,
-.yoga {
-    padding-top: 20px;
-    font-family: Lato, sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.container p {
-    color: #fff;
-    font-size: 14px;
-    margin: 0;
-}
-
-/* Style ordered list of meditation, mindfulness and yoga */
-
-/* Style for the ordered list (ol) element */
-ol {
-    counter-reset: list-counter;
-    margin: 0;
-    padding: 0;
-}
-
-/* Style for each list item (li) element */
-li {
-    position: relative;
-    list-style: none;
-    padding-left: 15px;
-    margin-bottom: px;
-}
-
-/* Style for the numbering of the list items */
-
-ol li:before {
-    counter-increment: list-counter;
-    content: counter(list-counter);
-    position: absolute;
-    left: 0;
-    top: 0;
-    font-size: 18px;
-    font-weight: bold;
-    color: #4a0a53;
-}
-
-.meditation ol,
-.mindfulness ol,
-.yoga ol {
-    margin-bottom: 30px;
-}
-
-/* Styl of text ordered list of steps in meditation, mindfulness and yoga and aside paragraph */
-
-ol li {
-    font-size: 18px;
-    line-height: 1.6;
-    color: #333;
-    margin-bottom: 20px;
-}
-
-aside p {
-    font-size: 18px;
-    line-height: 1.6;
-    color: #333;
-    margin-bottom: 20px;
-}
-
-/* Style of h3 of Steps in meditation, mindfulness and yoga */
-
-.steps-container h3 {
-    font-family: Lato, sans-serif;
-    font-weight: 300;
-    text-align: center;
-    padding: 10px;
-    text-transform: uppercase;
-}
-
-/* Style Footer and copy right message */
-
-footer {
-    height: 150px;
-    background-color: #f2f2f2;
-    padding: 20px 0;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks>li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #3a3a3a;
-}
-
-.copyright {
-    margin-top: 10px;
-    text-align: center;
-    font-size: 14px;
-    color: #555;
-}
-
-/* Hero image for comm-support page and cover text styling */
-
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-}
-
-#hero-cover-text,
-#hero-cover-text h2 {
-    color: #fff;
-}
-
-#hero-image {
-    height: 600px;
-    width: 100%;
-    margin-bottom: 100px;
-    background: url("../images/hero-image.jpg") no-repeat center center;
-    background-size: cover;
-    flex: 1;
-
-    /* Animates zoom effect on page loading */
-    animation-name: home-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
-
-/* Creat level of zoom for home image */
-
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
-}
-
-#hero-cover-text {
-    font-size: 110%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-
-    width: 300px;
-    height: 230px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(255, 165, 0, 0.7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
-}
-
-/* Style Additional resources section */
-
-.resources {
-    max-width: 400px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-}
-
-.resources h2 {
-    font-size: 2rem;
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.resources hr {
-    border-top: 1px solid #3a3a3a;
-    margin: 20px auto;
-}
-
-.resources ul {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-.resources li {
-    margin-bottom: 15px;
-}
-
-.resources li a {
-    color: #3498db;
-    text-decoration: none;
-}
-
-.resources li a:hover {
-    text-decoration: underline;
-}
-
-/* Form section Feedback and Request */
-.form-section {
-    display: flex;
-    justify-content: space-between;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-.feedback-form,
-.request-form {
-    flex: 1;
-    box-sizing: border-box;
-}
-
-.feedback-form {
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-}
-
-.request-form {
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-}
-
-.feedback-form h2,
-.request-form h2 {
-    font-size: 24px;
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.feedback-form label,
-.request-form label {
-    display: block;
-    font-size: 18px;
-    margin-bottom: 8px;
-}
-
-.feedback-form input,
-.request-form input,
-.feedback-form textarea,
-.request-form textarea {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    margin-bottom: 20px;
-}
-
-.feedback-form textarea,
-.request-form textarea {
-    resize: vertical;
-}
-
-.feedback-form button,
-.request-form button {
-    background-color: #3498db;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.feedback-form button:hover,
-.request-form button:hover {
-    background-color: #2980b9;
-}
-
-button[type="submit"] {
-    align-self: flex-end;
-}
-
-/* Add spacing between the feedback form and request form */
-.request-form {
-    margin-left: 40px;
-}
-
-/* Add spacing between the request form and the footer */
-.request-form {
-    margin-bottom: 60px;
-}
-
-/* Style Times Section */
-
-#times {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    background-image: url("../images/sacredpathway-meetingtimes-image.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
-    margin-bottom: 50px;
-}
-
-#times div {
-    color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    border: 2px solid white;
-    box-sizing: border-box;
-}
-
-#times h2 {
-    color: #fafafa;
-}
-
-/* Style Floating Home Icon */
-.floating-home-icon {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 999;
-}
-
-.floating-home-icon a {
-    display: block;
-    width: 40px;
-    height: 40px;
-    background-color: #f2f2f2;
-    border-radius: 50%;
-    line-height: 40px;
-    text-align: center;
-    font-size: 20px;
-    color: #3a3a3a;
-    text-decoration: none;
-}
-
-.floating-home-icon a:hover {
-    background-color: #3498db;
-    color: #fff;
-}
-
-/* For media screen sizes 1200px wide and below */
-@media screen and (max-width: 1200px) {
-
-    /* Navigation Menu */
-    #menu {
-        font-size: 100%;
-    }
-}
-
-/* For media screen sizes 950px wide and down */
-@media screen and (max-width: 950px) {
-
-    /* Hide text and show only icons for the menu */
-
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-        display: none;
-    }
-
-    #logo {
-        text-align: center;
-        margin: 10px auto;
-    }
-
-    /* Show the menu when the mobile menu icon is clicked */
-
-    #menu li a {
-        font-size: 0;
-        text-indent: -9999px;
-        overflow: hidden;
-        display: block;
-        width: 40px;
-        /* Adjust the width as needed */
-        height: 40px;
-        /* Adjust the height as needed */
-        background-color: #f2f2f2;
-        /* Add a background color for better visibility */
-        border-radius: 50%;
-        /* Make the icons circular if desired */
-        line-height: 40px;
-        /* Adjust line-height to center the icons vertically */
-        text-align: center;
-    }
-
-    #menu li a:before {
-        font-size: 20px;
-        /* Set the font size for icons */
-        line-height: 40px;
-        /* Adjust line-height to center the icons vertically */
-    }
-
-    /* Adjust spacing between menu items */
-    #menu li {
-        margin: 10px;
-    }
-
-    /* Home Image and Cover Text */
     #home-outer {
-        height: 400px;
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+    }
+
+    #cover-text,
+    #cover-text h2 {
+        color: #fff;
     }
 
     #home-image {
-        height: 400px;
+        height: 600px;
+        width: 100%;
+        margin-bottom: 100px;
+        background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
+        background-size: cover;
+        flex: 1;
+
+        /* Animates zoom effect on page loading */
+        animation-name: home-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
     }
 
-    /* Media query style for sections */
+    /* Creat level of zoom for home image */
+
+    @keyframes home-zoom {
+        from {
+            transform: scale(1);
+        }
+
+        to {
+            transform: scale(1.1);
+        }
+    }
+
+    #cover-text {
+        font-size: 120%;
+        font-family: Oswald, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+
+        width: 300px;
+        height: 210px;
+
+        padding-top: 40px;
+        padding-left: 10px;
+
+        background-color: rgba(255, 165, 0, 0.7);
+
+        bottom: 30px;
+        right: 150px;
+
+        position: absolute;
+    }
+
+    /*  Section Styling */
 
     .center {
-        width: 90%;
+        margin: auto;
+        width: 80%;
+        padding: 10px;
     }
+
+    /* Styling of Meditation, Mindfulness and Yoga header, paragraphs and steps of meditation ol */
+
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: left;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    .meditation>p,
+    .mindfulness>p,
+    .yoga>p {
+        margin-top: 50px;
+    }
+
+    hr {
+        border-top: 1px solid #3a3a3a;
+        width: 100%;
+        margin: 5px;
+    }
+
+    /* Styling for med-intro mind-intro and yoga-intro */
 
     .med-intro,
     .mind-intro,
     .yoga-intro {
-        font-size: 16px;
+        font-size: 18px;
+        line-height: 1.6;
+        color: #333;
+        margin-bottom: 20px;
     }
 
-    .steps-container h3 {
-        font-size: 20px;
-    }
+    /* Styling images */
 
-    /* Media query style mobile for footer */
-    footer {
+    .photos>img {
+        display: block;
+        width: 100%;
         height: auto;
-        padding: 20px 0 40px;
     }
 
-    .social-networks {
+    div.photos {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto 25px;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    div.container {
+        text-align: center;
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+
+    img {
+        display: block;
+        width: 60%;
+        margin: auto;
+    }
+
+    .meditation,
+    .mindfulness,
+    .yoga {
+        padding-top: 20px;
+        font-family: Lato, sans-serif;
         display: flex;
+        align-items: center;
         justify-content: center;
     }
 
-    .social-networks li {
-        margin: 0 10px;
+    .container p {
+        color: #fff;
+        font-size: 14px;
+        margin: 0;
     }
 
-    /* Media query style for mobile screens for Feedback and Request Forms */
+    /* Style ordered list of meditation, mindfulness and yoga */
 
-    .form-section {
-        max-width: 100%;
-        margin: 0 10px;
+    /* Style for the ordered list (ol) element */
+    ol {
+        counter-reset: list-counter;
+        margin: 0;
+        padding: 0;
     }
 
-    input,
-    textarea {
+    /* Style for each list item (li) element */
+    li {
+        position: relative;
+        list-style: none;
+        padding-left: 15px;
+        margin-bottom: px;
+    }
+
+    /* Style for the numbering of the list items */
+
+    ol li:before {
+        counter-increment: list-counter;
+        content: counter(list-counter);
+        position: absolute;
+        left: 0;
+        top: 0;
+        font-size: 18px;
+        font-weight: bold;
+        color: #4a0a53;
+    }
+
+    .meditation ol,
+    .mindfulness ol,
+    .yoga ol {
+        margin-bottom: 30px;
+    }
+
+    /* Styl of text ordered list of steps in meditation, mindfulness and yoga and aside paragraph */
+
+    ol li {
+        font-size: 18px;
+        line-height: 1.6;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    aside p {
+        font-size: 18px;
+        line-height: 1.6;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    /* Style of h3 of Steps in meditation, mindfulness and yoga */
+
+    .steps-container h3 {
+        font-family: Lato, sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding: 10px;
+        text-transform: uppercase;
+    }
+
+    /* Style Footer and copy right message */
+
+    footer {
+        height: 150px;
+        background-color: #f2f2f2;
+        padding: 20px 0;
+    }
+
+    .social-networks {
+        text-align: center;
+    }
+
+    .social-networks>li {
+        display: inline;
+    }
+
+    .social-networks i {
+        font-size: 160%;
+        margin: 1%;
+        padding: 5%;
+        color: #3a3a3a;
+    }
+
+    .copyright {
+        margin-top: 10px;
+        text-align: center;
+        font-size: 14px;
+        color: #555;
+    }
+
+    /* Hero image for comm-support page and cover text styling */
+
+    #hero-outer {
+        height: 600px;
         width: 100%;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
     }
 
-    /* Media query style for Additional Resources Section */
+    #hero-cover-text,
+    #hero-cover-text h2 {
+        color: #fff;
+    }
+
+    #hero-image {
+        height: 600px;
+        width: 100%;
+        margin-bottom: 100px;
+        background: url("../images/hero-image.jpg") no-repeat center center;
+        background-size: cover;
+        flex: 1;
+
+        /* Animates zoom effect on page loading */
+        animation-name: home-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+
+    /* Creat level of zoom for home image */
+
+    @keyframes hero-zoom {
+        from {
+            transform: scale(1);
+        }
+
+        to {
+            transform: scale(1.1);
+        }
+    }
+
+    #hero-cover-text {
+        font-size: 110%;
+        font-family: Oswald, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+
+        width: 300px;
+        height: 210px;
+
+        padding-top: 40px;
+        padding-left: 10px;
+
+        background-color: rgba(255, 165, 0, 0.7);
+
+        bottom: 30px;
+        right: 150px;
+
+        position: absolute;
+    }
+
+    /* Style Additional resources section */
 
     .resources {
-        max-width: 90%;
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
     }
-}
 
-/* Media query for smaller screen sizes */
-@media screen and (max-width: 768px) {
+    .resources h2 {
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .resources hr {
+        border-top: 1px solid #3a3a3a;
+        margin: 20px auto;
+    }
+
+    .resources ul {
+        list-style-type: none;
+        padding-left: 0;
+        font-size: 1.2rem;
+    }
+
+    .resources li {
+        margin-bottom: 15px;
+    }
+
+    .resources li a {
+        color: #345edb;
+        text-decoration: none;
+    }
+
+    .resources li a:hover {
+        text-decoration: underline;
+    }
+
+    /* Form section Feedback and Request */
     .form-section {
-        flex-direction: column;
+        display: flex;
+        justify-content: space-between;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 20px;
     }
 
     .feedback-form,
     .request-form {
-        flex-basis: 100%;
+        flex: 1;
+        box-sizing: border-box;
     }
 
     .feedback-form {
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+    }
+
+    .request-form {
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+    }
+
+    .feedback-form h2,
+    .request-form h2 {
+        font-size: 24px;
+        text-align: center;
         margin-bottom: 20px;
     }
-}
+
+    .feedback-form label,
+    .request-form label {
+        display: block;
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+
+    .feedback-form input,
+    .request-form input,
+    .feedback-form textarea,
+    .request-form textarea {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 20px;
+    }
+
+    .feedback-form textarea,
+    .request-form textarea {
+        resize: vertical;
+    }
+
+    .feedback-form button,
+    .request-form button {
+        background-color: #345edb;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .feedback-form button:hover,
+    .request-form button:hover {
+        background-color: #345edb;
+    }
+
+    button[type="submit"] {
+        align-self: flex-end;
+    }
+
+    /* Add spacing between the feedback form and request form */
+    .request-form {
+        margin-left: 40px;
+    }
+
+    /* Add spacing between the request form and the footer */
+    .request-form {
+        margin-bottom: 60px;
+    }
+
+    /* Style Times Section */
+
+    #times {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        background-image: url("../images/sacredpathway-meetingtimes-image.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        overflow: hidden;
+        margin-bottom: 50px;
+    }
+
+    #times div {
+        color: #fafafa;
+        background-color: rgba(0, 0, 0, .6);
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        padding: 30px 0 0 10px;
+        text-align: center;
+        border: 2px solid white;
+        box-sizing: border-box;
+    }
+
+    #times h2 {
+        color: #fafafa;
+    }
+
+    /* Style Floating Home Icon and community & support Floating Icon */
+    .floating-home-icon,
+    .floating-commsupport-icon {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 999;
+    }
+
+    .floating-home-icon a,
+    .floating-commsupport-icon a {
+        display: block;
+        width: 40px;
+        height: 40px;
+        background-color: #f2f2f2;
+        border-radius: 50%;
+        line-height: 40px;
+        text-align: center;
+        font-size: 20px;
+        color: #3a3a3a;
+        text-decoration: none;
+    }
+
+    .floating-home-icon a:hover,
+    .floating-commsupport-icon a:hover {
+        background-color: #3498db;
+        color: #fff;
+    }
+
+    /* For media screen sizes 1200px wide and below */
+    @media screen and (max-width: 1200px) {
+
+        /* Navigation Menu */
+        #menu {
+            font-size: 100%;
+        }
+    }
+
+    /* For media screen sizes 950px wide and down */
+    @media screen and (max-width: 950px) {
+
+        /* Show the menu when the mobile menu icon is clicked */
+
+        #menu li a {
+            font-size: 24px;
+            /* Increase the font size for better visibility */
+            text-indent: none;
+            overflow: hidden;
+            display: block;
+            width: 40px;
+            /* Adjust the width as needed */
+            height: 40px;
+            /* Adjust the height as needed */
+            background-color: #f2f2f2;
+            /* Add a background color for better visibility */
+            border-radius: 50%;
+            /* Make the icons circular if desired */
+            line-height: 40px;
+            /* Adjust line-height to center the icons vertically */
+            text-align: center;
+        }
+
+        #menu li a:before {
+            font-size: 24px;
+            /* Set the font size for icons */
+            line-height: 40px;
+            /* Adjust line-height to center the icons vertically */
+        }
+
+        /* Adjust spacing between menu items */
+        #menu li {
+            margin: 15px;
+        }
+
+        /* Home Image and Cover Text */
+        #home-outer {
+            height: 400px;
+        }
+
+        #home-image {
+            height: 400px;
+        }
+
+        /* Media query style for sections */
+
+        .center {
+            width: 90%;
+        }
+
+        .med-intro,
+        .mind-intro,
+        .yoga-intro {
+            font-size: 16px;
+        }
+
+        .steps-container h3 {
+            font-size: 20px;
+        }
+
+        /* Media query style mobile for footer */
+        footer {
+            height: auto;
+            padding: 20px 0 40px;
+        }
+
+        .social-networks {
+            display: flex;
+            justify-content: center;
+        }
+
+        .social-networks li {
+            margin: 0 10px;
+        }
+
+        /* Media query style for mobile screens for Feedback and Request Forms */
+
+        .form-section {
+            max-width: 100%;
+            margin: 0 10px;
+        }
+
+        input,
+        textarea {
+            width: 100%;
+        }
+
+        /* Media query style for Additional Resources Section */
+
+        .resources {
+            max-width: 90%;
+        }
+    }
+
+    /* Media query for smaller screen sizes */
+    @media screen and (max-width: 768px) {
+        .form-section {
+            flex-direction: column;
+        }
+
+        .feedback-form,
+        .request-form {
+            flex-basis: 100%;
+        }
+
+        .feedback-form {
+            margin-bottom: 20px;
+        }
+    }
+
+    /* For media screen sizes 460px wide and down */
+    @media screen and (max-width: 460px) {
+
+        /* Shrink and move the logo to the left to avoid overlap with the menu icons */
+        #logo {
+            font-size: 200%;
+            margin-left: 10px;
+            float: left;
+        }
+
+        /* Shrink the cover text and hero cover text to fit the screen size */
+        #home-outer #cover-text,
+        #hero-outer #hero-cover-text {
+            font-size: 90%;
+            width: 250px;
+            height: 180px;
+            padding-top: 30px;
+            padding-left: 5px;
+        }
+
+        /* Adjust the font size for the navigation menu items */
+        #menu li a {
+            font-size: 16px;
+        }
+    }
