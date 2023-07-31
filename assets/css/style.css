@@ -1058,6 +1058,41 @@ button[type="submit"] {
     }
 }
 
+/* For screens 600px and below */
+@media screen and (max-width: 600px) {
+
+    /* Adjust font sizes for sections */
+    .med-intro,
+    .mind-intro,
+    .yoga-intro {
+        font-size: 14px;
+    }
+
+    .steps-container h3 {
+        font-size: 18px;
+    }
+
+    /* Adjust font sizes for resources section */
+    .resources h2 {
+        font-size: 1.5rem;
+    }
+
+    .resources ul {
+        font-size: 1rem;
+    }
+
+    /* Adjust form section layout */
+    .form-section {
+        flex-direction: column;
+    }
+
+    .feedback-form,
+    .request-form {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+}
+
 /* For media screen sizes 460px wide and down */
 @media screen and (max-width: 460px) {
 
