@@ -531,14 +531,16 @@ button[type="submit"] {
 }
 
 /* Style Floating Home Icon and community & support Floating Icon */
-.floating-home-icon, .floating-commsupport-icon {
+.floating-home-icon,
+.floating-commsupport-icon {
     position: fixed;
     bottom: 20px;
     right: 20px;
     z-index: 999;
 }
 
-.floating-home-icon a, .floating-commsupport-icon a {
+.floating-home-icon a,
+.floating-commsupport-icon a {
     display: block;
     width: 40px;
     height: 40px;
@@ -551,7 +553,8 @@ button[type="submit"] {
     text-decoration: none;
 }
 
-.floating-home-icon a:hover, .floating-commsupport-icon a:hover {
+.floating-home-icon a:hover,
+.floating-commsupport-icon a:hover {
     background-color: #3498db;
     color: #fff;
 }
@@ -571,7 +574,8 @@ button[type="submit"] {
     /* Show the menu when the mobile menu icon is clicked */
 
     #menu li a {
-        font-size: 24px; /* Increase the font size for better visibility */
+        font-size: 24px;
+        /* Increase the font size for better visibility */
         text-indent: none;
         overflow: hidden;
         display: block;
@@ -672,5 +676,16 @@ button[type="submit"] {
 
     .feedback-form {
         margin-bottom: 20px;
+    }
+}
+
+/* For media screen sizes 460px wide and down */
+@media screen and (max-width: 460px) {
+
+    /* Shrink and move the logo to the left to avoid overlap with the menu icons */
+    #logo {
+        font-size: 200%;
+        margin-left: 10px;
+        float: left;
     }
 }
