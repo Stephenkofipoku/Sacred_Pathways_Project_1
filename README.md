@@ -174,47 +174,56 @@ By implementing the above measures the over all accessibiity of the website is e
 [Am I Responsive snashot for the website page 2](./documents/sacred-pathways-iamresponsive-page-2.png)
 
     WAVE Evaluation tool was used to evaluate web accessibility within the browser.
+
 [WAVE Evaluation snapshot](./documents/wave-evaluation-sacred-pathways.png)
 
     Unicorn Revealer was used to check overflow on the website. This was very useful in checking the overflow from menu navigation, sections, forms and footer.
+
 [Unicorn Revealer snapshot](./documents/unicorn-reveaer-overflow-sacred-pathways.png)
 
 ## Deployment
+
     The webiste was deployed very early on in its development on the advice of my mentor using github and the live link and the link can be viewed here: ("https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/")
 
 ## User Stories
+
     The user stories are feedback and stories from user and vistors of Sacred Pathways about what draws them to the website and why they will revisit or recommend it to others. The following are stories shared by users of all ages. We have users from different professional backgrounds and age groups who visit the website for diffent reasons.
 
 ### User Story 1
+
     Name: Alex (Male, Software Engineer)
     Background: Alex works as a software engineer in a fast-paced tech company. He often feels stressed and mentally exhausted due to the demanding nature of his job. Seeking ways to find inner peace and balance, Alex discovers Sacred Pathways. The website's comprehensive resources on meditation, mindfulness, and yoga resonate with him. He visits the site regularly to practice guided meditation sessions, which helps him reduce stress and improve his focus at work. Alex appreciates the user-friendly design and engaging content, making him recommend Sacred Pathways to his colleagues who are also seeking relaxation techniques. The navigation links and homing incons make the website so interactive, responsive and user-friendly.
 
 ### User Story 2
+
     Name: Sarah (Female, Yoga Instructor)
     Background: Sarah is a dedicated yoga instructor with a passion for sharing the benefits of yoga with others. She comes across Sacred Pathways during her research for new yoga sequences and teaching methods. Impressed with the yoga section of the website, she finds creative ideas and inspiration to incorporate into her classes. Sarah appreciates the curated resources and in-depth articles, which deepen her understanding of yoga philosophy. She visits Sacred Pathways regularly to access new content and participates in the yoga sessions to connect with like-minded individuals. As a yoga enthusiast and instructor, she happily recommends the platform to her students and fellow instructors. The calming and natural colors of the webisite make it so attractive.
 
 ### User Story 3
+
     Name: David (Male, Spiritual Seeker)
     Background: David is a spiritual seeker exploring various meditation and mindfulness practices. He discovers Sacred Pathways while searching for a comprehensive platform that aligns with his spiritual beliefs. The website's inclusive approach and diverse resources resonate with him deeply. David finds solace in the guided meditation sessions, and the articles on mindfulness enrich his understanding of the practice. As he deepens his spiritual journey, David often revisits Sacred Pathways to explore different aspects of meditation and mindfulness. He appreciates the platform's respectful approach to different belief systems and happily shares the website with his spiritual community.
 
 ### User Story 4
+
     Name: Emily (Female, Busy Working Professional)
     Background: Emily is a busy working professional with a hectic schedule. She struggles to find time for self-care and maintaining a work-life balance. A friend recommends Sacred Pathways, and Emily decides to explore it. The short mindfulness exercises and quick yoga sessions fit perfectly into her daily routine. The website's accessibility and mobile-friendly design allow Emily to access resources on-the-go, during breaks or while commuting. The platform becomes her go-to destination for finding moments of calm amidst her busy life. Emily shares Sacred Pathways with her colleagues, understanding that it could be a valuable resource for anyone juggling a demanding career.
 
 ### User Story 5
+
     Name: Michael (Male, Athlete)
     Background: Michael is a professional athlete who seeks ways to enhance his performance and mental focus. After reading about the benefits of meditation and mindfulness for athletes, he stumbles upon Sacred Pathways. The platform's meditation techniques for athletes, combined with yoga for physical flexibility, intrigue him. Michael incorporates these practices into his training routine and experiences improved concentration and relaxation during competitions. Impressed with the positive impact on his athletic performance, Michael recommends Sacred Pathways to his teammates and coaches. He finds value in the specialized content catered to athletes, making him return to the website regularly to enhance his sports performance and well-being.
 
 ## Testing and Solved
 
-**TEST** | **ACTION** | **EXPECTATION** |  **RESULT** |
-----------|----------|----------|----------
-Home page | Using Chrom Dev Tools size to 950px | Elements and flow looks good @ 950px and down | Works as expected
-Home page | Using Chrom Dev Tols size to 320px | Elements and flow looks good @ 320px and down | Works as expected
-Hero page - Community & Support | Using Chrom Dev Tools size to 950px and down and 320px and down | Elements and flow looks good at 950px and down and 320px and down | Works as expected
-Nav bars - Home page | Click nav menu buttons | Each nav element takes you to the correction section or page | Works as expected
-Floating Nav icons - Home and Community Support | Click on the floating icon | Each takes you to the top of the corresponding page | Works as expected
-Menu Icons | Using Chrom Dev Tools size to 950px and down | Menu text hidden but icons appear | Works as expected
-Forms - Feedback and Request | Send feedback or request with wrong data or missing data | Fields must be correctly completed as required | Works as expected
-Forms - Feedbdack adn Request | Correctly complete and send a feedback or request | A code Insitute message page indicating to you that you have successfully sent a feedback or request | Works as expected
-Footer - Social media links | Click on social media links or icons | A new tab opens to the social media page | Works as expected
+| **TEST**                                        | **ACTION**                                                      | **EXPECTATION**                                                                                      | **RESULT**        |
+| ----------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------- |
+| Home page                                       | Using Chrom Dev Tools size to 950px                             | Elements and flow looks good @ 950px and down                                                        | Works as expected |
+| Home page                                       | Using Chrom Dev Tols size to 320px                              | Elements and flow looks good @ 320px and down                                                        | Works as expected |
+| Hero page - Community & Support                 | Using Chrom Dev Tools size to 950px and down and 320px and down | Elements and flow looks good at 950px and down and 320px and down                                    | Works as expected |
+| Nav bars - Home page                            | Click nav menu buttons                                          | Each nav element takes you to the correction section or page                                         | Works as expected |
+| Floating Nav icons - Home and Community Support | Click on the floating icon                                      | Each takes you to the top of the corresponding page                                                  | Works as expected |
+| Menu Icons                                      | Using Chrom Dev Tools size to 950px and down                    | Menu text hidden but icons appear                                                                    | Works as expected |
+| Forms - Feedback and Request                    | Send feedback or request with wrong data or missing data        | Fields must be correctly completed as required                                                       | Works as expected |
+| Forms - Feedbdack adn Request                   | Correctly complete and send a feedback or request               | A code Insitute message page indicating to you that you have successfully sent a feedback or request | Works as expected |
+| Footer - Social media links                     | Click on social media links or icons                            | A new tab opens to the social media page                                                             | Works as expected |
