@@ -238,3 +238,27 @@ By implementing the above measures the over all accessibiity of the website is e
 
 - CSS: No errors were found when passing through the official Jigsaw validator.
   - style.css
+
+[W3 CSS Validator results](./documents/sacred-pathways-w3-css-validation.png)
+
+## Full Testing
+
+    Website has been tested on different devices and browsers to ensure maximum functionality.
+
+## Credits
+
+### Code Used
+
+- Inspiration was taken from the structural design of LoveRunning source code from Code Institute.
+- README.md template from Code Institute.
+- Form dump from Code Institute used.
+
+### Content
+
+- The content of the website was written by Stephe Opoku
+- Some additional content for the paragraphs and text sections were written by ChatGPT, an AI language model developed by OpenAI.
+
+### Media
+
+- All images were taken from https://www.pexels.com/
+- Icons from https://fontawesome.com/
