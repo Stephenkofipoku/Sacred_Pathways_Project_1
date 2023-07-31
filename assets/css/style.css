@@ -1098,24 +1098,26 @@ button[type="submit"] {
 
     /* Shrink and move the logo to the left to avoid overlap with the menu icons */
     #logo {
-        font-size: 200%;
-        margin-left: 10px;
-        float: left;
+        font-size: 180%;
+        margin-left: 5px;
     }
 
     /* Shrink the cover text and hero cover text to fit the screen size */
     #home-outer #cover-text,
     #hero-outer #hero-cover-text {
-        font-size: 90%;
-        width: 250px;
-        height: 180px;
-        padding-top: 30px;
+        font-size: 70%;
+        width: 180px;
+        height: 120px;
+        padding-top: 15px;
         padding-left: 5px;
     }
 
     /* Adjust the font size for the navigation menu items */
     #menu li a {
-        font-size: 16px;
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
     }
 }
 
