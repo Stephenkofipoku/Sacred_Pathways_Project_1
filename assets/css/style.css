@@ -670,14 +670,7 @@ button[type="submit"] {
     .form-section {
         flex-direction: column;
 
-        /* Style for menu which indicates the page a user is on */
-        #menu li a.active,
-        #menu li a:active {
-            border-bottom: 2px solid #3a3a3a;
-        }
-
         /* Home or background image and cover text styling */
-
         #home-outer {
             height: 600px;
             width: 100%;

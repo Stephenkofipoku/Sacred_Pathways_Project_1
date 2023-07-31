@@ -179,7 +179,7 @@ By implementing the above measures the over all accessibiity of the website is e
 
     Unicorn Revealer was used to check overflow on the website. This was very useful in checking the overflow from menu navigation, sections, forms and footer.
 
-[Unicorn Revealer snapshot](./documents/unicorn-reveaer-overflow-sacred-pathways.png)
+[Unicorn Revealer snapshot](./documents/unicorn-revealer-overflow-sacred-pathways.png)
 
 ## Deployment
 
@@ -227,3 +227,14 @@ By implementing the above measures the over all accessibiity of the website is e
 | Forms - Feedback and Request                    | Send feedback or request with wrong data or missing data        | Fields must be correctly completed as required                                                       | Works as expected |
 | Forms - Feedbdack adn Request                   | Correctly complete and send a feedback or request               | A code Insitute message page indicating to you that you have successfully sent a feedback or request | Works as expected |
 | Footer - Social media links                     | Click on social media links or icons                            | A new tab opens to the social media page                                                             | Works as expected |
+
+## Validator and Testing
+
+- HTML: No errors were returned when passing through the official W3C validator.
+  - The Home page HTML
+  - The Community & support page HTML
+
+[W3 HTLM Validator results](./documents/sacred-pathways-w3-html-checker.png)
+
+- CSS: No errors were found when passing through the official Jigsaw validator.
+  - style.css
