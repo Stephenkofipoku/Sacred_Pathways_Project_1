@@ -248,6 +248,12 @@ By implementing the above measures the over all accessibiity of the website is e
 | Forms - Feedbdack adn Request                   | Correctly complete and send a feedback or request               | A code Insitute message page indicating to you that you have successfully sent a feedback or request | Works as expected |
 | Footer - Social media links                     | Click on social media links or icons                            | A new tab opens to the social media page                                                             | Works as expected |
 
+On the advice of my mentor, Lauren-Nicole, aria labels were added to all anchor tag. Also content between header & footer were wrapped in opening/closing set of main tags. 
+
+Flexbox was employed upon the suggestion of my mentor during the first session of the project. This was to improve on responsivement and to reduce on the number of media queries to make all sections responsivie.
+
+The back to top button was also implemented as a suggestion by my mentor to improve on interaction and responsiveness.
+
 ## Validator and Testing
 
 - HTML: No errors were returned when passing through the official W3C validator.
