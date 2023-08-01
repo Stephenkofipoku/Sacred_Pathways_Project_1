@@ -1,5 +1,22 @@
 # README for Sacred Pathways Project
 
+## Contents
+- Introduction
+- Purpose
+
+- Design
+    + Wireframes
+    + Sketches of the Sacred Pathway Project
+    + Color Scheme
+    + Typography
+    + Imagery
+    + Features
+        - Existing Features
+        - Home page
+        - Hero page
+
+
+
 ## Introduction
 
 Welcome,
@@ -31,6 +48,10 @@ The Sections will be Landing Sections/Home, Meditation, Mindfulness, Yoga. The C
 The color scheme was carefully selected to reflect the calm and natural environment that suits the theme of meditation, mindfulness and yoga.
 
 The color scheme used is a mainly white background with natural feel, violet, orange, gray and light blue touch.
+
+The colour palette of the website was generated using Colormind and the palette is shown below:
+
+![Sacred Pathways color palette](./documents/sacred-pathways-color-palette.png)
 
 ## Typography
 
@@ -169,17 +190,17 @@ By implementing the above measures the over all accessibiity of the website is e
 
     Am I Responsive was used to check the various device breakpoints for responsive design. The page below shows the snapshots from Am I Responsive for the 2 pages of the website:
 
-[Am I Responsive snapshot for the website page 1](./documents/sacred-pathways-iamresponsive-page-1.png)
+![Am I Responsive snapshot for the website page 1](./documents/sacred-pathways-iamresponsive-page-1.png)
 
-[Am I Responsive snashot for the website page 2](./documents/sacred-pathways-iamresponsive-page-2.png)
+![Am I Responsive snashot for the website page 2](./documents/sacred-pathways-iamresponsive-page-2.png)
 
     WAVE Evaluation tool was used to evaluate web accessibility within the browser.
 
-[WAVE Evaluation snapshot](./documents/wave-evaluation-sacred-pathways.png)
+![WAVE Evaluation snapshot](./documents/wave-evaluation-sacred-pathways.png)
 
     Unicorn Revealer was used to check overflow on the website. This was very useful in checking the overflow from menu navigation, sections, forms and footer.
 
-[Unicorn Revealer snapshot](./documents/unicorn-revealer-overflow-sacred-pathways.png)
+![Unicorn Revealer snapshot](./documents/unicorn-revealer-overflow-sacred-pathways.png)
 
 ## Deployment
 
@@ -234,12 +255,12 @@ By implementing the above measures the over all accessibiity of the website is e
   - The Home page HTML
   - The Community & support page HTML
 
-[W3 HTLM Validator results](./documents/sacred-pathways-w3-html-checker.png)
+![W3 HTLM Validator results](./documents/sacred-pathways-w3-html-checker.png)
 
 - CSS: No errors were found when passing through the official Jigsaw validator.
   - style.css
 
-[W3 CSS Validator results](./documents/sacred-pathways-w3-css-validation.png)
+![W3 CSS Validator results](./documents/sacred-pathways-w3-css-validation.png)
 
 ## Full Testing
 
