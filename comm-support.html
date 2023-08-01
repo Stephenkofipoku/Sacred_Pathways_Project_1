@@ -72,13 +72,13 @@
                 <h2>Feedback Form</h2>
                 <form action="https://formdump.codeinstitute.net/" method="POST">
                     <label for="feedback-name">Name:</label>
-                    <input type="text" id="feedback-name" name="name" required>
+                    <input type="text" id="feedback-name" name="full-name" autocomplete="name" required>
 
                     <label for="feedback-email">Email:</label>
-                    <input type="email" id="feedback-email" name="email" required>
+                    <input type="email" id="feedback-email" name="email" autocomplete="email" required>
 
                     <label for="feedback-message">Message:</label>
-                    <textarea id="feedback-message" name="message" required></textarea>
+                    <textarea id="feedback-message" name="message" rows="4" autocomplete="comment" required></textarea>
 
                     <button type="submit">Submit Feedback</button>
                 </form>
@@ -92,7 +92,7 @@
                     <textarea id="request" name="request" required></textarea>
 
                     <label for="email">Your Email:</label>
-                    <input type="email" id="request-email" name="email" required>
+                    <input type="email" id="email" name="email" autocomplete="email" required>
 
                     <button type="submit">Send Request</button>
                 </form>
