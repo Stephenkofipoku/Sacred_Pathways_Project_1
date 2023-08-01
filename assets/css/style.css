@@ -354,6 +354,8 @@ footer {
     }
 }
 
+/* Hero Cover text style */
+
 #hero-cover-text {
     font-size: 110%;
     font-family: Oswald, sans-serif;
@@ -534,7 +536,7 @@ button[type="submit"] {
 
 /* Style Floating Home Icon and community & support Floating Icon */
 .floating-home-icon,
-.floating-commsupport-icon {
+.floating-hero-icon {
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -542,7 +544,7 @@ button[type="submit"] {
 }
 
 .floating-home-icon a,
-.floating-commsupport-icon a {
+.floating-hero-icon a {
     display: block;
     width: 40px;
     height: 40px;
@@ -556,7 +558,7 @@ button[type="submit"] {
 }
 
 .floating-home-icon a:hover,
-.floating-commsupport-icon a:hover {
+.floating-hero-icon a:hover {
     background-color: #3498db;
     color: #fff;
 }
