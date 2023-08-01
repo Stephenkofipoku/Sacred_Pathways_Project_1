@@ -1,21 +1,20 @@
 # README for Sacred Pathways Project
 
 ## Contents
+
 - Introduction
 - Purpose
 
 - Design
-    + Wireframes
-    + Sketches of the Sacred Pathway Project
-    + Color Scheme
-    + Typography
-    + Imagery
-    + Features
-        - Existing Features
-        - Home page
-        - Hero page
-
-
+  - Wireframes
+  - Sketches of the Sacred Pathway Project
+  - Color Scheme
+  - Typography
+  - Imagery
+  - Features
+    - Existing Features
+    - Home page
+    - Hero page
 
 ## Introduction
 
@@ -283,3 +282,9 @@ By implementing the above measures the over all accessibiity of the website is e
 
 - All images were taken from https://www.pexels.com/
 - Icons from https://fontawesome.com/
+
+### Acknowlegement
+
+- My family for the support and encouragement through this project
+- My mentor, Lauren-Nicole for her valuable input and guidance on this project. Super grateful to her.
+- Code Institue Tutor Support for saving my work at a critical time.
