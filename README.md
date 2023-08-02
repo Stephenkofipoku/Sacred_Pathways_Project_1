@@ -14,7 +14,37 @@
   - Features
     - Existing Features
     - Home page
-    - Hero page
+      + Meditation Section
+      + Steps in Meditation
+      + Mindfulness Section
+      + Steps in Mindfulness
+      + Yoga Sections
+      + Steps in Yoga
+    - Community & Support Page
+      + Hero Image
+      + Additinal Resources
+      + Feedback Form
+      + Request Form
+      + Meeting Times Section
+    - Accessibility
+- Technologies Used
+  - Languages Used
+  - Frameworks, Libraries & Programs Used
+- Deployment
+- User Stories
+  + User Story 1
+  + User Story 2
+  + User Story 3
+  + User Story 4
+  + User Story 5
+- Testing and Solved
+- Validator and Testing
+- Full Testing
+- Credits
+  + Code Used
+  + Content
+  + Media
+  + Acknowlegement
 
 ## Introduction
 
