@@ -303,8 +303,9 @@ The back to top button was also implemented as a suggestion by my mentor to impr
 
 ### Content
 
-- The content of the website was written by Stephe Opoku
-- Some additional content for the paragraphs and text sections were written by ChatGPT, an AI language model developed by OpenAI.
+- The content of the website was written by Stephen Opoku
+- Some additional content for the paragraphs and text sections were written with the help of ChatGPT, an AI language model developed by OpenAI.
+- ChatGPT was very helpful in editing of my my codes.
 
 ### Media
 
