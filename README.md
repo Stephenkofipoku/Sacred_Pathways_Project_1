@@ -1,50 +1,42 @@
 # README for Sacred Pathways Project
 
 ## Contents
+- [Contents](#contents)
+- [Introduction](#introduction)
+- [Purpose](#purpose)
 
-- Introduction
-- Purpose
-
-- Design
-  - Wireframes
-  - Sketches of the Sacred Pathway Project
-  - Color Scheme
-  - Typography
-  - Imagery
-  - Features
-    - Existing Features
-    - Home page
-      + Meditation Section
-      + Steps in Meditation
-      + Mindfulness Section
-      + Steps in Mindfulness
-      + Yoga Sections
-      + Steps in Yoga
-    - Community & Support Page
-      + Hero Image
-      + Additinal Resources
-      + Feedback Form
-      + Request Form
-      + Meeting Times Section
-    - Accessibility
-- Technologies Used
-  - Languages Used
-  - Frameworks, Libraries & Programs Used
-- Deployment
-- User Stories
-  + User Story 1
-  + User Story 2
-  + User Story 3
-  + User Story 4
-  + User Story 5
-- Testing and Solved
-- Validator and Testing
-- Full Testing
-- Credits
-  + Code Used
-  + Content
-  + Media
-  + Acknowlegement
+- [Design](#design)
+  - [Wireframe](#wireframe)
+  - [Sketches Of The Sacred Pathways Project](#sketches-of-the-sacred-pathways-project)
+  - [Color Scheme](#color-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Home page](#home-page)
+      + [Meditation Section](#meditation-section)
+      + [Mindfulness Section](#mindfulness-section)
+      + [Yoga Section](#yoga-section)
+    - [Community \& Support Page](#community--support-page)
+    - [Accessibility](#accessibility)
+- [Technologies Used](#technologies-used)
+  - [Languages Used](#languages-used)
+  - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+- [Deployment](#deployment)
+- [User Stories](#user-stories)
+  + [User Story 1](#user-story-1)
+  + [User Story 2](#user-story-2)
+  + [User Story 3](#user-story-3)
+  + [User Story 4](#user-story-4)
+  + [User Story 5](#user-story-5)
+- [Testing and Solved](#testing-and-solved)
+- [Validator and Testing](#validator-and-testing)
+- [Full Testing](#full-testing)
+- [Credits](#credits)
+  + [Code Used](#code-used)
+  + [Content](#content)
+  + [Media](#media)
+  + [Acknowledgement](#acknowledgement)
 
 ## Introduction
 
@@ -64,7 +56,7 @@ We invite you to explore our website, to immerse yourself in the teachings and p
 
 This is basic sketch and spacial planning of the project using Balsamiq. Below is the structure giving a layout of the Main page which will have the logo on the left, the menu on the right, main image at the lop below the header and showing the various sections of the website which will be Meditation, Minfulness and Yoga. The next page is the Community and Support which will have the form for contacting Sacred Pathways, providing feedback and also additional resources for advance exploration and learning on each of the practices.
 
-## Sketches of the Sacred Pathway Project
+## Sketches Of The Sacred Pathways Project
 
 The Sections will be Landing Sections/Home, Meditation, Mindfulness, Yoga. The Community and support will be a separate html page where people can sign up, provide feedback or get linked to recommended resources such as other websites that can assist or guide them through advance meditation, mindfulness. Page 2 is the Community and support page.
 
@@ -186,7 +178,7 @@ The Yoga section as well starts with a header and an icon that represents yoga. 
 
 ![Meeting sessions snapshot](./documents/sacred-pathways-times-image.png)
 
-### Accessibity
+### Accessibility
 
 The website is made accessible-friendly as possible through the following measures:
 
@@ -319,7 +311,7 @@ The back to top button was also implemented as a suggestion by my mentor to impr
 - All images were taken from https://www.pexels.com/
 - Icons from https://fontawesome.com/
 
-### Acknowlegement
+### Acknowledgement
 
 - My family for the support and encouragement through this project
 - My mentor, Lauren-Nicole for her valuable input and guidance on this project. Super grateful to her.
