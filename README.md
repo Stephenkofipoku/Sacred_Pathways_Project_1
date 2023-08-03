@@ -213,9 +213,7 @@ By implementing the above measures the over all accessibiity of the website is e
 
     Am I Responsive was used to check the various device breakpoints for responsive design. The page below shows the snapshots from Am I Responsive for the 2 pages of the website:
 
-![Am I Responsive snapshot for the website page 1](./documents/sacred-pathways-iamresponsive-page-1.png)
-
-![Am I Responsive snashot for the website page 2](./documents/sacred-pathways-iamresponsive-page-2.png)
+![Am I Responsive snapshot for the website page 1](./documents/sacred-pathways-iamresponsive.png)
 
     WAVE Evaluation tool was used to evaluate web accessibility within the browser.
 
