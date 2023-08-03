@@ -229,7 +229,7 @@ By implementing the above measures the over all accessibiity of the website is e
   The depoymnent was done very early on in the project based on advice from my mentor.
   The deployment of the project was done in the following steps:
 
-  -  Forking the repo: The repository was crated in GitHub by forking a copy from the original Code Institute repo template. This was done on GitHub by clicking the "Fork" button to create a copy of the original repository.
+  -  Forking the repo: The repository was created in GitHub by forking a copy from the original Code Institute repo template. This was done on GitHub by clicking the "Fork" button to create a copy of the original repository.
   - Launching in IDE: After forking the repository, it was cloned or copied into Codeanywhere and opened by creating a new workspace. 
   - Git add/commit/push to GitHub: With the project open in your Codeanywhere, changes were made to the codebase and after desired changes, Git commands to stage the modified files (git add), create a commit with a descriptive message (git commit), and push the changes to your forked repository on GitHub (git push) were done.
   - Settings: In the repository's settings on GitHub, the configuration of the branch from the main was done for deploymnent to setup up the branch for deployment.
