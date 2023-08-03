@@ -233,7 +233,7 @@ By implementing the above measures the over all accessibiity of the website is e
   - Launching in IDE: After forking the repository, it was cloned or copied into Codeanywhere and opened by creating a new workspace. 
   - Git add/commit/push to GitHub: With the project open in your Codeanywhere, changes were made to the codebase and after desired changes, Git commands to stage the modified files (git add), create a commit with a descriptive message (git commit), and push the changes to your forked repository on GitHub (git push) were done.
   - Settings: In the repository's settings on GitHub, the configuration of the branch from the main was done for deploymnent to setup up the branch for deployment.
-  - Pages: GitHub Pages which has the facility to host your website directly from my GitHub repository was utilized. This was enabled in GitHub Pages by navigating to the repository's settings and locating the "GitHub Pages" section. Here, the branch you to deploy was configured of the website's domain required.
+  - Pages: GitHub Pages which has the facility to host your website directly from my GitHub repository was utilized. This was enabled in GitHub Pages by navigating to the repository's settings and locating the "GitHub Pages" section. Here, the branch to deploy was configured of the website's domain as required.
   - Choosing a branch & deploying: In the GitHub Pages settings, a selection of the branch that contains the code of the website. GitHub then built and deployed the website using the code from the selected main. The following deployment address was created from which the website can be accessed:
   
    [Sacred Pathways](https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/)
