@@ -223,6 +223,12 @@ By implementing the above measures the over all accessibiity of the website is e
 
 ![Unicorn Revealer snapshot](./documents/unicorn-revealer-overflow-sacred-pathways.png)
 
+  Chrome Lighthouse was used to analyzed both pages of the website with the following results as shown in the snapshots of the reults:
+
+![Sacred Pathways Lighthouse score page 1](./documents/sacred-pathways-lighthouse-score-page-1.png)
+
+![Sacred Pathways Lighthouse score page 2](./documents/sacred-pathways-lighthouse-score-page-2.png)
+
 ## Deployment
   The depoymnent was done very early on in the project based on advice from my mentor.
   The deployment of the project was done in the following steps:
