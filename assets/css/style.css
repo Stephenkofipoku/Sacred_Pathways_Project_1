@@ -716,7 +716,6 @@ button[type="submit"] {
         height: 600px;
         width: 100%;
         margin-bottom: 100px;
-        background: url("../images/pexels-pixabay-289586.jpg") no-repeat center center;
         background-size: cover;
         flex: 1;
 
@@ -960,7 +959,6 @@ button[type="submit"] {
         height: 600px;
         width: 100%;
         margin-bottom: 100px;
-        background: url("../images/hero-image.jpg") no-repeat center center;
         background-size: cover;
         flex: 1;
 
@@ -1355,22 +1353,6 @@ button[type="submit"] {
 
     .resources {
         max-width: 90%;
-    }
-}
-
-/* Media query for smaller screen sizes */
-@media screen and (max-width: 768px) {
-    .form-section {
-        flex-direction: column;
-    }
-
-    .feedback-form,
-    .request-form {
-        flex-basis: 100%;
-    }
-
-    .feedback-form {
-        margin-bottom: 20px;
     }
 }
 
