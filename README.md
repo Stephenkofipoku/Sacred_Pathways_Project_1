@@ -199,6 +199,8 @@ By implementing the above measures the over all accessibiity of the website is e
 
     Codeanywhere was used to create the codes and GitHub was used to create the repository for storage of the codes created in codeanywhere.
 
+    In the final stages of the work, my Codeanywhere account was suspended for lack of workspace hours and therefore Gitpod was used to complete the work. This decision was timely and based on the advised of my wondeful mentor.
+
     GitHub was also used to share to share work with my mentor for review and for deployment of the website.
 
     Google Fonts were used in creating the website.
@@ -225,7 +227,7 @@ By implementing the above measures the over all accessibiity of the website is e
 
 ## Deployment
 
-    The webiste was deployed very early on in its development on the advice of my mentor using github and the live link and the link can be viewed here: ("https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/")
+    The project repository was created in GitHub from the Code Institute template. The repo was then copied into Codeanywere where the a new workspace was created using the repo created in GitHub. The folders and and files for writing, editing and styling codes were created from Code anywhere. The work created in Code anywhere was published using GitHub repo of th working, settings and published from the main branch of the repo. The webiste was deployed very early on in its development on the advice of my mentor using github and the live link and the link can be viewed here: ("https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/")
 
 ## User Stories
 
@@ -260,7 +262,7 @@ By implementing the above measures the over all accessibiity of the website is e
 
 | **TEST**                                        | **ACTION**                                                      | **EXPECTATION**                                                                                      | **RESULT**        |
 | ----------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------- |
-| Home page                                       | Using Chrom Dev Tools size to 950px                             | Elements and flow looks good @ 950px and down                                                        | Works as expected |
+| Home page                                       | Using Chrom Dev Tools size to 1920px                             | Elements and flow looks good @ 950px and down                                                        | Works as expected |
 | Home page                                       | Using Chrom Dev Tols size to 320px                              | Elements and flow looks good @ 320px and down                                                        | Works as expected |
 | Hero page - Community & Support                 | Using Chrom Dev Tools size to 950px and down and 320px and down | Elements and flow looks good at 950px and down and 320px and down                                    | Works as expected |
 | Nav bars - Home page                            | Click nav menu buttons                                          | Each nav element takes you to the correction section or page                                         | Works as expected |
