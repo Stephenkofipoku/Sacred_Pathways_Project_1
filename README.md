@@ -226,8 +226,16 @@ By implementing the above measures the over all accessibiity of the website is e
 ![Unicorn Revealer snapshot](./documents/unicorn-revealer-overflow-sacred-pathways.png)
 
 ## Deployment
+  The depoymnent was done very early on in the project based on advice from my mentor.
+  The deployment of the project was done in the following steps:
 
-    The project repository was created in GitHub from the Code Institute template. The repo was then copied into Codeanywere where the a new workspace was created using the repo created in GitHub. The folders and and files for writing, editing and styling codes were created from Code anywhere. The work created in Code anywhere was published using GitHub repo of th working, settings and published from the main branch of the repo. The webiste was deployed very early on in its development on the advice of my mentor using github and the live link and the link can be viewed here: 
+  -  Forking the repo: The repository was crated in GitHub by forking a copy from the original Code Institute repo template. This was done on GitHub by clicking the "Fork" button to create a copy of the original repository.
+  - Launching in IDE: After forking the repository, it was cloned or copied into Codeanywhere and opened by creating a new workspace. 
+  - Git add/commit/push to GitHub: With the project open in your Codeanywhere, changes were made to the codebase and after desired changes, Git commands to stage the modified files (git add), create a commit with a descriptive message (git commit), and push the changes to your forked repository on GitHub (git push) were done.
+  - Settings: In the repository's settings on GitHub, the configuration of the branch from the main was done for deploymnent to setup up the branch for deployment.
+  - Pages: GitHub Pages which has the facility to host your website directly from my GitHub repository was utilized. This was enabled in GitHub Pages by navigating to the repository's settings and locating the "GitHub Pages" section. Here, the branch you to deploy was configured of the website's domain required.
+  - Choosing a branch & deploying: In the GitHub Pages settings, a selection of the branch that contains the code of the website. GitHub then built and deployed the website using the code from the selected main. The following deployment address was created from which the website can be accessed:
+  
    [Sacred Pathways](https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/)
 
 ## User Stories
