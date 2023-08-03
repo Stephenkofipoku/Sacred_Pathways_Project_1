@@ -227,7 +227,8 @@ By implementing the above measures the over all accessibiity of the website is e
 
 ## Deployment
 
-    The project repository was created in GitHub from the Code Institute template. The repo was then copied into Codeanywere where the a new workspace was created using the repo created in GitHub. The folders and and files for writing, editing and styling codes were created from Code anywhere. The work created in Code anywhere was published using GitHub repo of th working, settings and published from the main branch of the repo. The webiste was deployed very early on in its development on the advice of my mentor using github and the live link and the link can be viewed here: ("https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/")
+    The project repository was created in GitHub from the Code Institute template. The repo was then copied into Codeanywere where the a new workspace was created using the repo created in GitHub. The folders and and files for writing, editing and styling codes were created from Code anywhere. The work created in Code anywhere was published using GitHub repo of th working, settings and published from the main branch of the repo. The webiste was deployed very early on in its development on the advice of my mentor using github and the live link and the link can be viewed here: 
+   [Sacred Pathways](https://stephenkofipoku.github.io/Sacred_Pathways_Project_1/)
 
 ## User Stories
 
