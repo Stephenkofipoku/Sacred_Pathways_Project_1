@@ -117,7 +117,8 @@
     letter-spacing: 4px;
 
     width: 300px;
-    height: 210px;
+    height: 200px;
+    margin-bottom: 10px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -691,7 +692,7 @@ button[type="submit"] {
     #hero-outer #hero-cover-text {
         font-size: 80%;
         width: 220px;
-        height: 160px;
+        height: 150px;
         padding-top: 20px;
         padding-left: 5px;
     }
@@ -735,26 +736,6 @@ button[type="submit"] {
         to {
             transform: scale(1.1);
         }
-    }
-
-    #cover-text {
-        font-size: 120%;
-        font-family: Oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-
-        width: 300px;
-        height: 210px;
-
-        padding-top: 40px;
-        padding-left: 10px;
-
-        background-color: rgba(255, 165, 0, 0.7);
-
-        bottom: 30px;
-        right: 150px;
-
-        position: absolute;
     }
 
     /*  Section Styling */
@@ -980,26 +961,6 @@ button[type="submit"] {
         }
     }
 
-    #hero-cover-text {
-        font-size: 110%;
-        font-family: Oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-
-        width: 300px;
-        height: 210px;
-
-        padding-top: 40px;
-        padding-left: 10px;
-
-        background-color: rgba(255, 165, 0, 0.7);
-
-        bottom: 30px;
-        right: 150px;
-
-        position: absolute;
-    }
-
     /* Style Additional resources section */
     .resources {
         max-width: 400px;
@@ -1100,23 +1061,6 @@ button[type="submit"] {
     #logo {
         font-size: 180%;
         margin-left: 5px;
-    }
-
-    /* Shrink the cover text and hero cover text to fit the screen size */
-    #home-outer #cover-text {
-        font-size: 70%;
-        width: 180px;
-        height: 110px;
-        padding-top: 15px;
-        padding-left: 5px;
-    }
-    }
-    #hero-outer #hero-cover-text {
-        font-size: 70%;
-        width: 180px;
-        height: 135px;
-        padding-top: 15px;
-        padding-left: 5px;
     }
 
     /* Adjust the font size for the navigation menu items */
