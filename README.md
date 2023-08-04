@@ -86,19 +86,19 @@ The website uses to depict the theme of meditation, minfulness and yoga. The hom
 
 ## Features
 
-The website has two pages of home page with three sections of meditation, minfulenss and yoga. The send page is for communiuty and support. The features of the home page include logo on the left and navigation elements of the menu on the right with Home, Meditation, Mindfulness and Yoga which navigates you to the corresponding section of the page with images adn content. The Community and Support nmenu takes you to the Comnmunity and Support page. The home image is designed to give a 5 seconds zoom forward effect to attract attention.
+The website has two pages of home page with three sections of meditation, minfulenss and yoga. The second page is for communiuty and support. The features of the home page include logo on the left and navigation elements of the menu on the right with Home, Meditation, Mindfulness and Yoga which navigates you to the corresponding section of the page with images adn content. The Community and Support menu takes you to the Community and Support page. The home image is designed to give a 5 seconds zoom forward effect to attract attention.
 
 On the home image is a cover text with orange transparent backround drawing your attention to the purpose of the website.
 
 Below the home image is the section on Meditation with introductory text and two images of meditation and steps in meditation to guide people into meditation. The mindfulness and yoga sections, similarly has the same structure as meditation section with section heading, introductory text, two images and steps in mindfulness and yoga respectively.
 
-The Community and support page maintains the same page structure of logo, menu and footer but a hero's image to reflect a community of practitioners supporting each other. It has additional resources for people who want to explore more of these topics and forms for feedback and sending an email request to Sacred Pathways. The fields for feedback and request and required and also once a message or request is sent, an automatic response that indidcates that your feedback or request is succesfully received is provided.
+The Community and support page maintains the same page structure of logo, menu and footer but a hero's image to reflect a community of practitioners supporting each other. It has additional resources for people who want to explore more of these topics and forms for feedback and sending an email request to Sacred Pathways. The fields for feedback and request are required and also once a message or request is sent, an automatic response that indidcates that your feedback or request is succesfully received is provided.
 
 The footer has the social media links that opens in different tabs.
 
 ### Existing Features
 
-Both pages of the webiste has the following features:
+Both pages of the webiste have the following features:
 
 - Logo
   The logo on the top left corner of the page which is anchored to bring you to the home page once clicked.
