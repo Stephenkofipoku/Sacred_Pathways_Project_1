@@ -365,6 +365,7 @@ footer {
 
     width: 300px;
     height: 210px;
+    margin-bottom: 10px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -1249,11 +1250,11 @@ button[type="submit"] {
     }
 
     /* Home Image and Cover Text */
-    #home-outer {
+    #home-outer, #hero-outer {
         height: 400px;
     }
 
-    #home-image {
+    #home-image, #hero-image {
         height: 400px;
     }
 
