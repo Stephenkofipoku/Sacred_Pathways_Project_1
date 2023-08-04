@@ -575,7 +575,7 @@ button[type="submit"] {
 /* For media screen sizes 950px wide and down */
 @media screen and (max-width: 950px) {
 
-    /* Show the menu when the mobile menu icon is clicked */
+    /* Show the menu icons and hide text at media screen 950px and down */
 
     #menu li a {
         font-size: 24px;
@@ -1103,11 +1103,18 @@ button[type="submit"] {
     }
 
     /* Shrink the cover text and hero cover text to fit the screen size */
-    #home-outer #cover-text,
+    #home-outer #cover-text {
+        font-size: 70%;
+        width: 180px;
+        height: 110px;
+        padding-top: 15px;
+        padding-left: 5px;
+    }
+    }
     #hero-outer #hero-cover-text {
         font-size: 70%;
         width: 180px;
-        height: 120px;
+        height: 135px;
         padding-top: 15px;
         padding-left: 5px;
     }
