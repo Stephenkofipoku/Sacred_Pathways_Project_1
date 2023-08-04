@@ -139,16 +139,16 @@ The meditation section starts with a header and icon from fontawesome to depict 
 The Mindfulness section starts with a header and an icon from fontawesome that represnts mindfulness. There is an introductory paragraph and 2 images, one in indoor settings with candlelight and the other in natural green environment. These images have alt descriptive text for assisted technologies for visually impaired users.
 
 - Steps in Mindfulness
-  This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulenss. Additional resources are provided in the additional resouces sector on the community and support page for those that are interested in exploring more.
+  This is a sub section of the mindfulness section giving basic steps to follow for those that are interested in mindfulness. Additional resources are provided in the additional resources sector on the community and support page for those that are interested in exploring more.
 
   ![Steps in Mindfulness snapshot](./documents/sacred-pathways-mind-steps-image.png)
 
 ### Yoga Section
 
-The Yoga section as well starts with a header and an icon that represents yoga. This is followed by an introductory paragraph and two images of a group of people in yoga practice. The images have descriptive text both under the images and also in alt for assisted tecnology for machine reading for visually impaired users.
+The Yoga section as well starts with a header and an icon that represents yoga. This is followed by an introductory paragraph and two images of a group of people in yoga practice. The images have descriptive text both under the images and also in alt for assisted technology for machine reading for visually impaired users.
 
 - Steps in Yoga
-  This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resouce is provided at the community and support page for those that are interested in exploring more on yoga.
+  This is a sub section of the Yoga section with basic steps to follow in yoga practice for users. Additional resource is provided at the community and support page for those that are interested in exploring more on yoga.
 
   ![Steps in Yoga snapshot](./documents/sacred-pathways-yoga-steps-image.png)
 
@@ -164,7 +164,7 @@ The Yoga section as well starts with a header and an icon that represents yoga. 
 ![Additional resources section snapshot](./documents/sacred-pathways-additional-resources-image.png)
 
 - Feedback Form
-  This is a form that has fields for Name, email and message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
+  This is a form that has fields for Name, Email and Message from the user. These fields are required and therefore users cannot send an empty field, once feedback is sent a submit page indicating to you that you have succefully sent a feedback.
 
 ![Feedback forms snapshot](./documents/sacred-pathways-feedback-form-image.png)
 
@@ -184,7 +184,7 @@ The website is made accessible-friendly as possible through the following measur
 
 - Utilizing semantic HTML to provide meaningful structure and enhance accessibility.
 - Incorporating descriptive alt attributes for images on the site to provide alternative text for screen readers.
-- Ensuring an adequate color contrast across the site to improve readability for users with visual impairments. I employed the contrast checker provided by WebAIM to validate the contrast ratio between the selected foreground color and background color.
+- Ensuring an adequate color contrast across the site to improve readability for users with visual impairments. I employed the contrast checker provided by colormind to validate the contrast ratio between the selected foreground color and background color.
 - Making menus accessible by indicating the current page as "current" for screen readers, aiding navigation and orientation.
 
 By implementing the above measures the over all accessibiity of the website is enhanced.
@@ -223,7 +223,7 @@ By implementing the above measures the over all accessibiity of the website is e
 
 ![Unicorn Revealer snapshot](./documents/unicorn-revealer-overflow-sacred-pathways.png)
 
-  Chrome Lighthouse was used to analyzed both pages of the website with the following results as shown in the snapshots of the reults:
+  Google chrome Lighthouse was used to analyzed both pages of the website with the following results as shown in the snapshots of the reults:
 
 ![Sacred Pathways Lighthouse score page 1](./documents/sacred-pathways-lighthouse-score-page-1.png)
 
